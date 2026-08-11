@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carlos Wolf · Tangos y Partituras del Turf</title>
+  <meta name="description" content="Difusión de las obras de Carlos Wolf: partituras y tangos del turf. Todas las obras pertenecen a sus autores y al Museo del Turf.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Lora:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <nav class="nav">
+      <a class="nav-brand" href="#inicio">C. Wolf</a>
+      <div class="nav-links">
+        <a href="#inicio">Inicio</a>
+        <a href="#partituras">Partituras</a>
+        <a href="#tangos">Tangos</a>
+        <a href="#acerca">Acerca de</a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section id="inicio" class="hero">
+      <p class="hero-eyebrow">Obras de Turf</p>
+      <h1 class="hero-title">Carlos Wolf</h1>
+      <p class="hero-subtitle">Tangos y Partituras del Turf</p>
+      <p class="hero-text">
+        Un archivo para difundir y compartir las obras que Carlos Wolf reunió
+        alrededor de las carreras: partituras históricas y tangos dedicados a los
+        grandes caballos, jockeys y leyendas del turf.
+      </p>
+      <div class="hero-actions">
+        <a class="btn btn-gold" href="#partituras">Ver partituras</a>
+        <a class="btn btn-outline" href="#tangos">Escuchar tangos</a>
+      </div>
+    </section>
+
+    <section id="partituras" class="section">
+      <div class="section-head">
+        <h2 class="section-title">Partituras</h2>
+        <p class="section-desc">
+          Deslizá para recorrer la colección. Hacé clic en una partitura para verla en grande.
+        </p>
+      </div>
+      <div class="strip-wrap">
+        <button class="strip-arrow strip-arrow-prev" aria-label="Anterior" type="button">&#9664;</button>
+        <div id="partituras-strip" class="strip"></div>
+        <button class="strip-arrow strip-arrow-next" aria-label="Siguiente" type="button">&#9654;</button>
+      </div>
+    </section>
+
+    <section id="tangos" class="section section-alt">
+      <div class="section-head">
+        <h2 class="section-title">Tangos</h2>
+        <p class="section-desc">
+          Tangos, milongas y candombes de la pista. Apretá play para escuchar.
+        </p>
+      </div>
+      <div id="tangos-list" class="tangos-list"></div>
+    </section>
+
+    <section id="acerca" class="section">
+      <div class="section-head">
+        <h2 class="section-title">Acerca de</h2>
+      </div>
+      <div class="about">
+        <p>
+          Esta página difunde obras compartidas por <strong>Carlos Wolf</strong>,
+          reunidas en torno al turf: partituras, tangos y milongas que
+          homenajean a jockeys, caballos y campeones.
+        </p>
+        <p>
+          Todo el material pertenece a sus autores y es custodiado por el
+          <a href="https://museodelturf.com.uy" target="_blank" rel="noopener">Museo del Turf (Uruguay)</a>.
+          Esta vitrina <em>no descarga ni almacena</em> ningún archivo: imágenes y audios
+          se cargan directamente desde el sitio original.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Carlos Wolf · Tangos y Partituras del Turf</p>
+    <p>
+      Obras difundidas con fines culturales · 
+      <a href="https://museodelturf.com.uy" target="_blank" rel="noopener">Museo del Turf, Uruguay</a>
+    </p>
+  </footer>
+
+  <div id="lightbox" class="lightbox" hidden>
+    <button class="lightbox-close" type="button" aria-label="Cerrar">&times;</button>
+    <figure class="lightbox-figure">
+      <img id="lightbox-img" src="" alt="">
+      <figcaption id="lightbox-caption"></figcaption>
+    </figure>
+  </div>
+
+  <script src="/js/main.js"></script>
+</body>
+</html>
