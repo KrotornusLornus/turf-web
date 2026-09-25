@@ -1,171 +1,107 @@
 'use strict';
 
-const PARTITURAS_URL = '/partituras_carlos_wolf.json';
-const TANGOS_URL = '/tangos_costa_baleta.json';
+const DATA_URL = '/partituras.json';
 
-const ARTIST_NAMES = {
-  'carlos gardel': 'Carlos Gardel',
-  'jorge vidal': 'Jorge Vidal',
-  'edmundo rivero': 'Edmundo Rivero',
-  'abel cordoba': 'Abel Córdoba',
-  'jorge beiro': 'Jorge Beiró',
-  'alberto gomez': 'Alberto Gómez',
-  'alberto echague': 'Alberto Echagüe',
-  'juan darienzo': "Juan D'Arienzo",
-  'angel vargas': 'Ángel Vargas',
-  'angel dagostino': "Ángel D'Agostino",
-  'felix romero': 'Félix Romero',
-  'donato racciatti': 'Donato Racciatti',
-  'eduardo pulis': 'Eduardo Pulis'
-};
-
-const FALLBACK_ARTISTS = {
-  'preparate-pal-domingo': 'Carlos Gardel',
-  'para-el-viejo-leguisamo': 'Jorge Vidal',
-  'pista-15': 'Jorge Beiró',
-  'para-el-chupino-noriega': 'Eduardo Pulis',
-  'pingo-lindo': 'Jorge Vidal',
-  'y-nadie-sabe-mas-que-vos': 'Abel Córdoba'
-};
-
-function decodeEntities(str) {
-  const el = document.createElement('textarea');
-  el.innerHTML = str;
-  return el.value;
+function formatTitle(title) {
+  return String(title || '').trim();
 }
 
-function escapeHtml(str) {
-  return String(str)
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/'/g, '&#39;');
+function makeImg(src, alt) {
+  const img = document.createElement('img');
+  img.loading = 'lazy';
+  img.alt = alt;
+  img.src = src;
+  return img;
 }
 
-function slugify(str) {
-  return String(str)
-    .toLowerCase()
-    .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '')
-    .replace(/[^a-z0-9]+/g, ' ')
-    .trim()
-    .replace(/\s+/g, ' ');
+function renderGrid(items) {
+  const grid = document.getElementById('catalogo-grid');
+  if (!grid) return;
+
+  grid.textContent = '';
+  const cards = items.map((item, index) => renderCard(item, index));
+  grid.append(...cards);
 }
 
-function prettyArtist(slugged) {
-  if (ARTIST_NAMES[slugged]) return ARTIST_NAMES[slugged];
-  return slugged
-    .split(' ')
-    .filter(Boolean)
-    .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
-    .join(' ');
-}
+function renderCard(item, index) {
+  const title = formatTitle(item.titulo);
+  const author = item.autor || '';
+  const hasAudio = !!item.audio;
 
-function extractArtist(url, title, slug) {
-  if (FALLBACK_ARTISTS[slug]) return FALLBACK_ARTISTS[slug];
+  const card = document.createElement('button');
+  card.type = 'button';
+  card.className = 'grid-card';
+  card.dataset.index = String(index);
 
-  const base = url.split('/').pop().replace(/\.mp3$/i, '');
-  const t = slugify(title);
-  const parts = [];
+  const thumb = document.createElement('div');
+  thumb.className = 'grid-card-thumb';
+  thumb.appendChild(makeImg(item.imagen, title));
 
-  for (const seg of base.split('_')) {
-    const s = slugify(seg);
-    if (t && s.length > t.length && s.endsWith(t)) {
-      const artist = s.slice(0, -t.length).trim();
-      if (artist) parts.push(prettyArtist(artist));
-    }
+  if (hasAudio) {
+    const badge = document.createElement('span');
+    badge.className = 'grid-card-play';
+    badge.setAttribute('aria-hidden', 'true');
+    badge.textContent = '▶';
+    thumb.appendChild(badge);
   }
 
-  return parts.join(' y ');
-}
+  const meta = document.createElement('div');
+  meta.className = 'grid-card-meta';
 
-function isScannedTitle(title) {
-  return /^ScannedImage/i.test(title);
-}
+  const titleEl = document.createElement('div');
+  titleEl.className = 'grid-card-title';
+  titleEl.textContent = title;
 
-function renderPartituras(items) {
-  const strip = document.getElementById('partituras-strip');
+  meta.appendChild(titleEl);
 
-  const cards = items.map((p) => {
-    const title = decodeEntities(p.titulo);
-    const fig = document.createElement('figure');
-    fig.className = 'strip-card';
-    fig.tabIndex = 0;
+  if (author) {
+    const authorEl = document.createElement('div');
+    authorEl.className = 'grid-card-author';
+    authorEl.textContent = author;
+    meta.appendChild(authorEl);
+  }
 
-    const img = document.createElement('img');
-    img.loading = 'lazy';
-    img.alt = title;
-    img.src = p.url;
+  card.appendChild(thumb);
+  card.appendChild(meta);
 
-    fig.appendChild(img);
-
-    if (!isScannedTitle(title)) {
-      const cap = document.createElement('figcaption');
-      cap.textContent = title;
-      fig.appendChild(cap);
-    }
-
-    fig.addEventListener('click', () => openLightbox(p.url, title));
-    fig.addEventListener('keydown', (e) => {
-      if (e.key === 'Enter' || e.key === ' ') {
-        e.preventDefault();
-        openLightbox(p.url, title);
-      }
-    });
-
-    return fig;
-  });
-
-  strip.append(...cards);
-}
-
-function renderTangos(tangos) {
-  const list = document.getElementById('tangos-list');
-
-  const items = tangos.map((t) => {
-    const title = decodeEntities(t.titulo);
-    const artist = extractArtist(t.url, title, t.slug);
-
-    const item = document.createElement('div');
-    item.className = 'tango-item';
-
-    const info = document.createElement('div');
-    info.className = 'tango-info';
-
-    const titleEl = document.createElement('div');
-    titleEl.className = 'tango-title';
-    titleEl.textContent = title;
-
-    const artistEl = document.createElement('div');
-    artistEl.className = 'tango-artist';
-    artistEl.textContent = artist || 'Tangos de Turf';
-
-    info.appendChild(titleEl);
-    info.appendChild(artistEl);
-
-    const audio = document.createElement('audio');
-    audio.className = 'tango-audio';
-    audio.controls = true;
-    audio.preload = 'none';
-    audio.src = t.url;
-
-    item.appendChild(info);
-    item.appendChild(audio);
-    return item;
-  });
-
-  list.append(...items);
+  const open = () => openDetail(item);
+  card.addEventListener('click', open);
+  return card;
 }
 
 const lightbox = document.getElementById('lightbox');
 const lightboxImg = document.getElementById('lightbox-img');
-const lightboxCaption = document.getElementById('lightbox-caption');
+const lightboxTitle = document.getElementById('lightbox-title');
+const lightboxAuthor = document.getElementById('lightbox-author');
+const lightboxDesc = document.getElementById('lightbox-desc');
+const lightboxAudio = document.getElementById('lightbox-audio');
 
-function openLightbox(url, title) {
-  lightboxImg.src = url;
+function openDetail(item) {
+  const title = formatTitle(item.titulo);
+
+  lightboxImg.src = item.imagen;
   lightboxImg.alt = title;
-  lightboxCaption.textContent = title;
+  lightboxTitle.textContent = title;
+
+  const author = (item.autor || '').trim();
+  lightboxAuthor.textContent = author;
+  lightboxAuthor.hidden = !author;
+
+  lightboxDesc.textContent = item.descripcion || '';
+
+  lightboxAudio.textContent = '';
+  if (item.audio) {
+    const audio = document.createElement('audio');
+    audio.className = 'detail-audio';
+    audio.controls = true;
+    audio.preload = 'none';
+    audio.src = item.audio;
+    lightboxAudio.appendChild(audio);
+    lightboxAudio.hidden = false;
+  } else {
+    lightboxAudio.hidden = true;
+  }
+
   lightbox.hidden = false;
   document.body.style.overflow = 'hidden';
 }
@@ -173,6 +109,7 @@ function openLightbox(url, title) {
 function closeLightbox() {
   lightbox.hidden = true;
   lightboxImg.src = '';
+  lightboxAudio.textContent = '';
   document.body.style.overflow = '';
 }
 
@@ -184,25 +121,20 @@ document.addEventListener('keydown', (e) => {
   if (e.key === 'Escape') closeLightbox();
 });
 
-const strip = document.getElementById('partituras-strip');
-document.querySelector('.strip-arrow-prev').addEventListener('click', () => {
-  strip.scrollBy({ left: -680, behavior: 'smooth' });
-});
-document.querySelector('.strip-arrow-next').addEventListener('click', () => {
-  strip.scrollBy({ left: 680, behavior: 'smooth' });
-});
-
-async function loadAll() {
+async function loadData() {
   try {
-    const [partituras, tangos] = await Promise.all([
-      fetch(PARTITURAS_URL).then((r) => r.json()),
-      fetch(TANGOS_URL).then((r) => r.json())
-    ]);
-    renderPartituras(partituras);
-    renderTangos(tangos);
+    const res = await fetch(DATA_URL);
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const items = await res.json();
+    renderGrid(items);
   } catch (err) {
+    const grid = document.getElementById('catalogo-grid');
+    if (grid) {
+      grid.textContent = 'No se pudo cargar el catálogo.';
+      grid.classList.add('grid-error');
+    }
     console.error('No se pudieron cargar los datos:', err);
   }
 }
 
-loadAll();
+loadData();
