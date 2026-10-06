@@ -49,6 +49,19 @@
           escucharla.
         </p>
       </div>
+      <div class="filtros">
+        <input id="buscador" type="search" class="buscador"
+          placeholder="Buscar por título, autor o ficha…"
+          aria-label="Buscar en el catálogo">
+        <div id="chips" class="chips" role="group" aria-label="Filtrar por categoría"></div>
+      </div>
+      <div id="estado-filtros" class="estado-filtros" hidden>
+        <p id="resultado-count" class="resultado-count"></p>
+        <div id="sin-resultados" class="sin-resultados" hidden>
+          <p>No hay obras que coincidan con la búsqueda.</p>
+          <button id="limpiar-filtros" type="button" class="btn-limpiar">Limpiar filtros</button>
+        </div>
+      </div>
       <div id="catalogo-grid" class="grid"></div>
     </section>
 
