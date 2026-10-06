@@ -62,10 +62,16 @@ const server = http.createServer((req, res) => {
     const ext = path.extname(filePath).toLowerCase();
     const type = MIME[ext] || 'application/octet-stream';
 
-    res.writeHead(200, {
+    const CACHEABLE = new Set(['.jpg', '.jpeg', '.png', '.svg', '.mp3', '.ico']);
+    const headers = {
       'Content-Type': type,
       'Content-Length': stat.size
-    });
+    };
+    if (CACHEABLE.has(ext)) {
+      headers['Cache-Control'] = 'public, max-age=86400';
+    }
+
+    res.writeHead(200, headers);
 
     fs.createReadStream(filePath).pipe(res);
   });

@@ -83,6 +83,10 @@ function updateChips() {
   }
 }
 
+function thumbSrc(item) {
+  return item.imagen ? item.imagen.replace('imagenes/', 'imagenes/thumbs/') : item.imagen;
+}
+
 function makeImg(src, alt) {
   const img = document.createElement('img');
   img.loading = 'lazy';
@@ -112,7 +116,7 @@ function renderCard(item, index) {
 
   const thumb = document.createElement('div');
   thumb.className = 'grid-card-thumb';
-  thumb.appendChild(makeImg(item.imagen, title));
+  thumb.appendChild(makeImg(thumbSrc(item), title));
 
   if (hasAudio) {
     const badge = document.createElement('span');
