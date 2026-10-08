@@ -1,9 +1,7 @@
 node_modules/
 .DS_Store
 *.log
-.password
 partituras.backup.json
 partituras.json.tmp
-.password
 partituras.backup.json
 partituras.json.tmp

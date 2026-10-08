@@ -9,12 +9,8 @@ const ROOT = __dirname;
 const WEB_ROOT = path.join(ROOT, 'public');
 const PORT = process.env.PORT || 3000;
 
-// Contraseña del editor: variable de entorno ADMIN_PASSWORD o archivo .password
-const ADMIN_PASSWORD =
-  process.env.ADMIN_PASSWORD ||
-  (fs.existsSync(path.join(ROOT, '.password'))
-    ? fs.readFileSync(path.join(ROOT, '.password'), 'utf8').trim()
-    : '');
+// Contraseña del editor (harcodeada)
+const ADMIN_PASSWORD = 'leguisamo';
 
 const MIME = {
   '.html': 'text/html; charset=utf-8',
@@ -103,7 +99,6 @@ function sha256(value) {
 }
 
 function checkPassword(pw) {
-  if (!ADMIN_PASSWORD) return false;
   return crypto.timingSafeEqual(sha256(pw), sha256(ADMIN_PASSWORD));
 }
 
@@ -172,13 +167,10 @@ async function handleApi(req, res, pathname) {
   const ip = req.socket.remoteAddress || '?';
 
   if (pathname === '/api/session' && req.method === 'GET') {
-    return sendJson(res, 200, { ok: true, enabled: !!ADMIN_PASSWORD, authed: isAuthed(req) });
+    return sendJson(res, 200, { ok: true, enabled: true, authed: isAuthed(req) });
   }
 
   if (pathname === '/api/login' && req.method === 'POST') {
-    if (!ADMIN_PASSWORD) {
-      return sendJson(res, 503, { ok: false, error: 'El editor no está habilitado: falta configurar la contraseña en el servidor.' });
-    }
     const rec = loginFails.get(ip);
     if (rec && rec.until > Date.now() && rec.count >= LOGIN_MAX_FAILS) {
       return sendJson(res, 429, { ok: false, error: 'Demasiados intentos fallidos. Probá de nuevo más tarde.' });
@@ -357,7 +349,7 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(PORT, () => {
-  const editorState = ADMIN_PASSWORD ? 'habilitado' : 'SIN CONTRASEÑA CONFIGURADA (edición deshabilitada)';
+  const editorState = 'habilitado';
   console.log('Carlos Wolf · Tangos y Partituras — http://localhost:' + PORT);
   console.log('Editor: ' + editorState);
 });
