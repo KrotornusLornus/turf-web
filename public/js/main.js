@@ -92,6 +92,17 @@ function makeImg(src, alt) {
   img.loading = 'lazy';
   img.alt = alt;
   img.src = src;
+
+  // Si la miniatura no existe (p. ej. una imagen recién subida sin thumb),
+  // se recurre una sola vez al original.
+  if (src && src.indexOf('imagenes/thumbs/') === 0) {
+    img.addEventListener('error', () => {
+      if (img.dataset.fallback) return;
+      img.dataset.fallback = '1';
+      img.src = src.replace('imagenes/thumbs/', 'imagenes/');
+    });
+  }
+
   return img;
 }
 

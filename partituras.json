@@ -4,7 +4,9 @@
     "autor": "Hugo Matienzo",
     "imagen": "imagenes/a-la-vuelta.jpg",
     "audio": null,
-    "categorias": ["Sin clasificar"],
+    "categorias": [
+      "Sin clasificar"
+    ],
     "descripcion": "Hay una grabación muy temprana de este tango: la Victor Argentine Orchestra, matriz B-3605, publicada como Victor 3274 y fechada el 25 de julio de 1906, cuando el tango apenas entraba al disco. La base tango.info atribuye ese registro a Próspero Cimaglia y no a Hugo Matienzo, como figura en el catálogo, y la diferencia importa: en 1906 Matienzo tenía seis años, así que la obra de esa fecha no puede ser suya. Lo más probable es que existan dos obras homónimas o que la atribución del catálogo sea errónea. Se conserva como instrumentación de orquesta típica, con el carácter de archivo de las partituras más antiguas."
   },
   {
@@ -12,7 +14,9 @@
     "autor": null,
     "imagen": "imagenes/el-7-en-punta.jpg",
     "audio": null,
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "El título mezcla un elemento hípico con jerga de las apuestas, pero no se ha encontrado ningún tango documentado con ese nombre en los catálogos de tango ni en el estudio de Crespi y Pinzón sobre las partituras primitivas de turf. Quedan abiertas varias hipótesis: un nombre de caballo, un apodo interno de algúnambi o un título mal leído en la portada. Lo que sí puede sostenerse es que el lenguaje del título pertenece al mundo del turf y que la partitura es un documento de esa sociabilidad hípica más que una obra identificable."
   },
   {
@@ -20,7 +24,9 @@
     "autor": "Nicolás M. Videla",
     "imagen": "imagenes/griteria.jpg",
     "audio": "audios/griteria.mp3",
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "Es un tango de Nicolás M. Videla, uno de los compositores menores de la guardia vieja porteña, con un estilo que sale directamente del bandoneón rioplatense. El estudio de Crespi y Pinzón recoge la dedicatoria que el autor hizo imprimir en la portada: «Dedicado a mi tío Rodolfo G. Videla». Ese detalle doméstico revela una de las prácticas más comunes de la época, convertir a un familiar en destinatario de honor de una obra que en realidad era un encargo social. Su obra no ha tenido la difusión de los grandes nombres del género, aunque la pieza merece una escucha cuidadosa por su tratamiento rítmico."
   },
   {
@@ -28,7 +34,9 @@
     "autor": "Alfredo Seghini",
     "imagen": "imagenes/sin-castigar.jpg",
     "audio": null,
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "Existe un tango homónimo de Francisco E. Peirano, no de Alfredo Seghini como figura en el catálogo, y pertenece claramente a la temática hípica. La Tangothèque conserva su dedicatoria completa, «Dedicado al amigo Carlos Nasca», y registra una grabación de La Rondalla del Gaucho Relámpago. El archivo lo clasifica dentro de la categoría de piezas «de la temática del hipismo, de los caballos de carrera». Peirano firma además «Cattáneo», «Contra la yeta», «2 de artillería» y «El maneador», además de los valses «Sarita», «Hermelinda» e «Isabel»."
   },
   {
@@ -36,7 +44,9 @@
     "autor": "P. Rafaelli (h)",
     "imagen": "imagenes/jockey-club.jpg",
     "audio": null,
-    "categorias": ["Studs e instituciones"],
+    "categorias": [
+      "Studs e instituciones"
+    ],
     "descripcion": "El título remite al Jockey Club de Buenos Aires, la institución que administró la actividad hípica del país durante más de un siglo y que fue fundada en 1882 por Carlos Pellegrini, cuando el turf empezaba a organizarse como industria de ocio. El Hipódromo de Palermo, nacido hacia 1876, fue su escenario principal, y el Gran Premio Jockey Club se convirtió en uno de los clásicos de mayor prestigio del calendario. No se encontró un tango documentado con este título y la firma que figura en el catálogo, P. Rafaelli, de modo que la atribución queda sin confirmar."
   },
   {
@@ -44,7 +54,9 @@
     "autor": null,
     "imagen": "imagenes/al-final-primero-yo.jpg",
     "audio": null,
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "El título tiene la forma de un verso de tango canción, con esa construcción retórica de los tangos de Sainz Amador que anteponen una situación de competencia a la afirmación personal. No se localizó ningún registro de esta obra con los datos de autor disponibles, ni aparece en los catálogos de tango ni en el estudio de Crespi y Pinzón sobre las partituras de turf. Sin letra documentada y sin autor identificado, solo puede describirse por su forma: un título que anuncia una rivalidad, dentro de un archivo donde conviven piezas de gran valor documental con otras de atribución incierta."
   },
   {
@@ -52,7 +64,9 @@
     "autor": "R. Gaucho",
     "imagen": "imagenes/el-mancarron.jpg",
     "audio": null,
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "El origen del título no ha podido establecerse con documentación externa. La palabra «mancarrón» no figura en el léxico conocido del tango ni en el vocabulario hípico registrado, y el rótulo tampoco coincide con ninguna obra catalogada. La firma «R. Gaucho» no ha podido vincularse a un compositor identificado. Es posible que se trate de un nombre de caballo o de una lectura defectuosa de un título original. Su valor es el de un documento de lo que se musicaba en los ambientes hípicos porteños, aunque sin los datos necesarios para identificar la obra."
   },
   {
@@ -60,7 +74,9 @@
     "autor": "Rafael Tuegols",
     "imagen": "imagenes/la-atropellada.jpg",
     "audio": null,
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "Es un tango de Rafael Tuegols, guitarrista, violinista y compositor argentino que nació en Buenos Aires en 1889 y murió en la misma ciudad en 1960. Venía componiendo desde 1914, pero el salto que lo puso en el centro de la escena fue «Ave negra», publicado en 1917; a partir de ahí llegaron «Allanamiento», «La Atropellada», «Barrio Piñeyro», «La Chica del volante», «Muchacho de ley», «Pa' que bronqués», «Rosina», «Si pudiera regresar», «Tratála con cariño», «La Uruguayita» y «Viejos pagos». La base tango.info la registra como tango con música de Tuegols y sin letrista identificado, lo que sugiere que circuló sobre todo como instrumentación."
   },
   {
@@ -68,7 +84,9 @@
     "autor": "Anibal Troilo",
     "imagen": "imagenes/tres-y-dos.jpg",
     "audio": "audios/tres-y-dos.mp3",
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "Es un tango instrumental de Aníbal Troilo, compuesto y editado en 1946. Troilo lo llevó al disco el 14 de mayo de ese año para RCA Víctor, con el número 60-0944, en una sesión en la que también se registraron la milonga «Con mi perro» y «Mi tango triste». La misma discografía del período incluye «Fuegos artificiales», «Buen amigo» y «La revancha», lo que da la medida del ritmo de trabajo de una orquesta típica en su etapa de madurez. Pertenece a la línea del tango sin letra que Troilo mantuvo viva mientras el tango canción dominaba al público, y se volvió referencia de interpretación para los bandoneonistas de la escuela de Pichuco. La versión disponible está arreglada por Argentino Galván."
   },
   {
@@ -76,7 +94,9 @@
     "autor": null,
     "imagen": "imagenes/derecho-viejo.jpg",
     "audio": "audios/derecho-viejo.mp3",
-    "categorias": ["Sin clasificar"],
+    "categorias": [
+      "Sin clasificar"
+    ],
     "descripcion": "Es uno de los grandes instrumentales de Eduardo Arolas, compuestas hacia 1916 y publicada ese mismo año. El título juega en dos sentidos: en español «derecho» significa ley, y la pieza fue escrita para un grupo de estudiantes de derecho de Buenos Aires. Rafael Tuegols sostuvo en una entrevista de 1948 que Arolas la compuso en el café La Morocha, en la esquina de Corrientes y Del Carril; el historiador Vicente Demarco sostenía en cambio que había sido escrita en Bragado hacia 1912. Sobre la partitura se adosaron varias letras: la primera, de Andrés Baldesari, fue grabada por Teófilo Ibáñez con la Orquesta Típica en 1934, y Gabriel Clausi escribió la versión muy conocida en la grabación de Nelly Omar de 1979 con la orquesta de José Canet. El tango dio además título y argumento a una película de 1950 dirigida por Manuel Romero."
   },
   {
@@ -84,7 +104,9 @@
     "autor": null,
     "imagen": "imagenes/el-tapado.jpg",
     "audio": null,
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "El catálogo registra «El Tapado», pero la obra documentada más cercana es «El tapao», tango de Leopoldo Thompson, uno de los grandes violinistas de la guardia vieja, con una dedicatoria que el estudio de Crespi y Pinzón recoge textualmente: «Dedicado a mi cuñado José Bonano y a mi amigo Juan Manuel Firpo». Juan Manuel Firpo fue profesor de bandoneón de Osvaldo Fresedo y, junto a Hernani Macchi, Bonano y el propio Thompson, formó parte del cuarteto La Armonía, de modo que la pieza documenta las redes de música y de sangre que sostenían la actividad porteña. Entre «tapao» y «tapado» media una sola letra, así que es muy probable que la portada archivada se haya leído de forma imprecisa al transcribirla. Conviene revisar el original antes de dar por cerrado el título."
   },
   {
@@ -92,7 +114,9 @@
     "autor": "Alfredo Seghini",
     "imagen": "imagenes/sin-castigar-2.jpg",
     "audio": null,
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "Segunda copia de «Sin Castigar» presente en el archivo. La obra documentada es un tango de Francisco E. Peirano, no de Alfredo Seghini como figura en el catálogo, y pertenece a la temática hípica: la Tangothèque conserva su dedicatoria, «Dedicado al amigo Carlos Nasca», y registra una grabación de La Rondalla del Gaucho Relámpago. Que la obra aparezca dos veces sugiere que el archivo recibió dos ejemplares distintos, posiblemente de manos o procedencias diferentes, lo que es habitual en acervos reunidos por acumulación. La duplicación no aporta datos nuevos sobre la obra, pero sí sobre la historia material de la colección, y permite comparar ambas copias para establecer si son de la misma edición."
   },
   {
@@ -100,7 +124,9 @@
     "autor": null,
     "imagen": "imagenes/el-alazan.jpg",
     "audio": "audios/el-alazan.mp3",
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "El estudio de Crespi y Pinzón recoge la obra «El alazán» con la dedicatoria que el compositor hizo imprimir en la portada: «Dedico este humilde recuerdo al señor José Morales en testimonio del aprecio que me merece». «Alazán» es, en la jerga del turf argentino, el caballo de color alazán, y ese tono de «humilde recuerdo» es característico de las amistades de turf de la época. Las fuentes atribuyen la obra a Alpidio Fernández, aunque el catálogo no conserva el autor, de modo que la atribución se apoya únicamente en este estudio. La pieza se inscribe en el momento en que los jockeys pasaron a ser los protagonistas de las partituras."
   },
   {
@@ -108,7 +134,9 @@
     "autor": null,
     "imagen": "imagenes/el-gran-juntero.jpg",
     "audio": null,
-    "categorias": ["Sin clasificar"],
+    "categorias": [
+      "Sin clasificar"
+    ],
     "descripcion": "Es uno de los títulos del archivo que no ha podido vincularse con ninguna obra registrada. La palabra «juntero» no pertenece al léxico conocido del tango ni al vocabulario hípico documentado, lo que sugiere que la portada contenga una lectura defectuosa, un nombre propio de difícil transcripción o una anotación interna del archivista. No hay autor identificado ni registro en los catálogos de tango, y el estudio de Crespi y Pinzón no arroja coincidencia. La partitura se conserva dentro de un conjunto cuyo tema dominante es la relación entre el tango y el mundo de las carreras, de modo que su valor es el de un documento de archivo, no el de una composición identificable."
   },
   {
@@ -116,7 +144,9 @@
     "autor": null,
     "imagen": "imagenes/castigando.jpg",
     "audio": "audios/castigando.mp3",
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "Es un tango de Ricardo Gaudenzio, violinista que murió en 1960 y cuya biografía está entrelazada con los comienzos del tango instrumental. Se inició en 1908 en el conjunto de Vicente Greco que actuaba en el café La Turca de La Boca, y después tocó con Augusto Berto. Es además autor de otros dos títulos, «El chupete» y «Es de ley». La dedicatoria de «Castigando» dice: «Dedicado a mis amigos P. Polito, D. Petillo, A. Petillo y R. Rinaldi», todos músicos del primer cuarteto de Francisco Canaro. La pieza documenta una de las redes de camaradería que articulaban a los instrumentistas de la guardia vieja. Que el catálogo no registre el autor se debe probablemente a que la portada no lo consigna."
   },
   {
@@ -124,7 +154,9 @@
     "autor": null,
     "imagen": "imagenes/el-catedratico.jpg",
     "audio": null,
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "Por su forma, el título pertenece a la familia de los tangos dedicatorios de las primeras décadas: el sustantivo único, de corte académico, funciona casi siempre como apodo o alias de la persona a la que la obra se destina. No se ha encontrado registro de este tango en los catálogos de tango ni en el estudio de Crespi y Pinzón sobre las partituras de turf, y el catálogo no consigna autor, de modo que no es posible asignar compositor ni fecha. El contraste con el resto del archivo es notorio: casi todas las piezas de esta colección llevan el nombre de un caballo, un jinete o un propietario, mientras que «El Catedrático» apunta a alguien del mundo académico. Queda como un título de documento sin atribución."
   },
   {
@@ -132,7 +164,9 @@
     "autor": "Augusto A. Gentile",
     "imagen": "imagenes/la-recta-final.jpg",
     "audio": null,
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "La obra documentada con este título es de Antonio Romano y Javier Mossa, no de Augusto A. Gentile como figura en el catálogo, y el estudio de Crespi y Pinzón recoge su dedicatoria: «Dedicado a nuestros amigos Luis Pozzi (Luiggin), Juan Podestá y Francisco Ledda». Es llamativa la coincidencia entre esos nombres y los que aparecen en el catálogo bajo otros títulos, ya que Luis Pozzi vuelve a figurar en «Gritería», lo que sugiere una red estable entre los músicos de la época. El título pertenece a la jerga de las carreras: la recta final es el último tramo de la pista, donde se deciden las carreras, y por eso funciona tan bien como dedicatoria a un grupo de amigos del turf."
   },
   {
@@ -140,7 +174,9 @@
     "autor": "Hugo Matienzo",
     "imagen": "imagenes/la-aplanadora.jpg",
     "audio": null,
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "Es un tango de Hugo Matienzo, y el estudio de Crespi y Pinzón lo incluye entre las partituras primitivas de turf. Su dedicatoria es de las más lacónicas del género, «Dedicado a mis amigos íntimos», sin nombres, una fórmula que delata cómo a veces el homenaje no tenía destinatario preciso sino una fórmula de cortesía hacia el propio entorno. No debe confundirse con el apodo «la aplanadora del tango», que se aplica al Sexteto Mayor de Buenos Aires por su estilo arrollador y su enorme proyección en el mundo de la danza: esa expresión no tiene relación con el título de Matienzo, uno de los compositores más prolíficos de la segunda mitad del siglo XX."
   },
   {
@@ -148,7 +184,9 @@
     "autor": "Francisco Canaro",
     "imagen": "imagenes/el-favorito.jpg",
     "audio": "audios/el-favorito.mp3",
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "Es un tango de Francisco Canaro, editado por el sello Atlanta en 1916 en versión instrumental. Forma parte de la lista de obras que compuso en torno al debut de su orquesta en 1915, en el Teatro Olimpo de la calle Pueyrredón, cuando fijó las bases del conjunto que iba a definir la Orquesta Típica: dos violines, dos bandoneones, piano y contrabajo. Esa formación, en la que Canaro reemplazó la flauta por el contrabajo, quedó establecida de manera definitiva como el sexteto base del género. De la misma etapa son «La barra fuerte», su primer tango, «Pinta brava», «El caramelo», «Canillita», «El opio», «Nobleza gaucha», «Matasano», «El baccarat», «El internado» y «El pollito». No debe confundirse con el «El Favorito» de Juan Rezzano, grabado en 1929 por Roberto Firpo con letra de Lito Bayardo, que es una obra distinta con el mismo título."
   },
   {
@@ -156,7 +194,9 @@
     "autor": "Rafael Tuegols",
     "imagen": "imagenes/la-atropellada-2.jpg",
     "audio": null,
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "Segunda copia de «La Atropellada» presente en el archivo. Es un tango de Rafael Tuegols, guitarrista, violinista y compositor argentino que venía componiendo desde 1914 y que en 1917 se dio a conocer con «Ave negra», su gran éxito, seguido de «Allanamiento», «Barrio Piñeyro», «La Chica del volante», «Muchacho de ley», «Pa' que bronqués», «Rosina», «Si pudiera regresar», «Tratála con cariño», «La Uruguayita» y «Viejos pagos». La base tango.info la registra sin letrista identificado, lo que sugiere que circuló sobre todo como instrumentación. Que aparezca dos veces en la colección indica que el archivo guarda dos ejemplares distintos de la misma obra y permite comparar las copias para establecer si pertenecen a la misma edición."
   },
   {
@@ -164,7 +204,9 @@
     "autor": null,
     "imagen": "imagenes/la-sayada.jpg",
     "audio": null,
-    "categorias": ["Sin clasificar"],
+    "categorias": [
+      "Sin clasificar"
+    ],
     "descripcion": "La Sayada aparece en el archivo sin autor identificado. Sin documentación externa localizada en los catálogos de tango ni en el estudio de Crespi y Pinzón sobre las partituras primitivas de turf. Pertenece al vocabulario rural porteño y podría evocar una despedida vespertina."
   },
   {
@@ -172,7 +214,9 @@
     "autor": "A. Romano / J. Mossa",
     "imagen": "imagenes/la-polla.jpg",
     "audio": null,
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "La Polla es un tango de Francisco Canaro. Compuesta hacia 1915 por Francisco Canaro; Unos años después recibió letra de Luis César Amadori y se transformó en el celebérrimo «Madreselva»; El cambio de título no fue casual: «madreselva» desplazó el vocabulario hípico original. Otras obras del autor presentes en el catálogo: «Madreselva». El catálogo atribuye la obra a Antonio Romano y Javier Mossa, nombres que corresponden a la dedicatoria de «La recta final»; probablemente un cruce de datos."
   },
   {
@@ -180,7 +224,9 @@
     "autor": "D. Guerrieri",
     "imagen": "imagenes/el-derby.jpg",
     "audio": null,
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "El Derby aparece en el archivo sin autor identificado. El título coincide con el nombre de uno de los clásicos del turf argentino; No se ha localizado un tango documentado con este título en los catálogos consultados; El Derby fue un clásico homenaje a las carreras homónimas inglesas. El catálogo no consigna autor verificado."
   },
   {
@@ -188,7 +234,9 @@
     "autor": "Carlos Posadas",
     "imagen": "imagenes/el-recodo.jpg",
     "audio": null,
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "El Recodo es un tango de Alejandro Junnissi. La dedicatoria dice: «Dedicado a los señores Alejandro Ramón y Eladio Baraldo Moreno»; La partitura llegó al disco en varias oportunidades; Una de las versiones fue registrada por la orquesta de Carlos Di Sarli.  El catálogo atribuye la obra a Carlos Posadas, autor de «Guanaco», dedicado al señor Honorio Valdez; la discrepancia debería resolverse revisando la portada original."
   },
   {
@@ -196,7 +244,9 @@
     "autor": "Arturo Rodriguez",
     "imagen": "imagenes/una-fija.jpg",
     "audio": null,
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "Una Fija aparece en el archivo sin autor identificado. «Una fija» era en la jerga del turf la apuesta segura, el caballo que no debía perder; No se ha localizado un tango documentado con este título en los catálogos consultados. Pertenece a la capa de la música popular que tomaba la jerga del turf para construir nombres de tango."
   },
   {
@@ -204,7 +254,9 @@
     "autor": "Roberto Firpo",
     "imagen": "imagenes/las-carreras.jpg",
     "audio": "audios/las-carreras.mp3",
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "Las Carreras es un tango de Roberto Firpo. Roberto Firpo fue uno de los músicos más prolíficos de los primeros años del género, con más de mil títulos en su catálogo; Buena parte de su obra se inscribe en la temática del turf y de las carreras; Su estilo recorre la danza, el tango de salón y la música para bailar.  La versión disponible es representativa del tango de turf porteño de las décadas de 1910 y 1920."
   },
   {
@@ -212,7 +264,9 @@
     "autor": null,
     "imagen": "imagenes/la-redoblona.jpg",
     "audio": "audios/la-redoblona.mp3",
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "La Redoblona aparece en el archivo sin autor identificado. «Redoblona» remite a la jerga militar, la carga de la caballería y el redoble de tambores; También funcionó como nombre de caballos en el ambiente del turf; No se ha encontrado un tango documentado con este título. El catálogo no consigna autor, pese a que la obra conserva una versión grabada."
   },
   {
@@ -220,7 +274,9 @@
     "autor": "Pedro Polito",
     "imagen": "imagenes/la-rodada.jpg",
     "audio": null,
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "La Rodada es un tango de Pedro Polito. Pedro Polito fue bandoneonista fundamental de las orquestas de la guardia vieja; Dedicatoria: «Dedicado a mis estimados amigos y compañeros Francisco Canaro y José Martínez»; Grabada por Francisco Canaro en 1915; Polito firma además «Solipón», dedicado a los señores Ignacio Correas, Miguel A. Juárez Celman, Rodolfo Prieto y Alfredo Rodríguez, y al Haras Las Hortigas. Otras obras del autor presentes en el catálogo: «Solipón». La obra pertenece al momento fundacional de la Orquesta Típica."
   },
   {
@@ -228,7 +284,9 @@
     "autor": null,
     "imagen": "imagenes/el-clasico.jpg",
     "audio": null,
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "El Clásico es un tango de Carlos Hernani Macchi. Dedicatoria: «Dedicado a mi hermano Eduardo»; Macchi fue flautista y violinista en el café La Morocha, junto a los hermanos Domingo y Juan Santa Cruz; El título alude a un clásico, nombre que el turf argentino da a sus grandes carreras del calendario.  Forma parte de la primera generación de partituras dedicadas a la hípica."
   },
   {
@@ -236,7 +294,9 @@
     "autor": "Miguel Padula",
     "imagen": "imagenes/el-doblete.jpg",
     "audio": null,
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "El Doblete es un tango de Miguel Padula. Dedicatoria: «Dedicado a mis amigos Alfredo Saavedra, Arnoldo Grassi y Juan Borda»; «Doblete» puede evocar el hecho de ganar dos carreras en una misma jornada.  Pertenece a la camada de músicos amateurs del turf que escribían piezas para su entorno."
   },
   {
@@ -244,7 +304,9 @@
     "autor": "Alfonso Ferrari",
     "imagen": "imagenes/energica.jpg",
     "audio": null,
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Energica es un tango de Alfonso Ferrari. Alfonso Ferrari era bandoneonista; Dedicatoria: «Dedicado al distinguido señor Williams Paats»; También compuso «Ermelinda», «La buseca», «Púa de oro», «¡Qué yeta!» y «¡Qué gracia!». Otras obras del autor presentes en el catálogo: «Ermelinda», «La buseca», «Púa de oro», «¡Qué yeta!», «¡Qué gracia!». "
   },
   {
@@ -252,7 +314,9 @@
     "autor": "G. Vanzina Pacheco",
     "imagen": "imagenes/ocurrencia.jpg",
     "audio": null,
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Ocurrencia es un tango de Guido Vanzina Pacheco. Dedicatoria: «Dedicado al distinguido sportman señor Don S.J.U»; La yegua Ocurrencia, nacida en 1912 por Val d'Or y Meltona, ganó el Gran Premio Jockey Club en 1915; Ese mismo año ganó el Gran Premio Internacional Carlos Pellegrini, con el jockey Domingo Torterolo. Otras obras del autor presentes en el catálogo: «Ocurrencia en marcha». Es una de las dos partituras del archivo dedicadas a la misma yegua."
   },
   {
@@ -260,7 +324,10 @@
     "autor": null,
     "imagen": "imagenes/carrio.jpg",
     "audio": null,
-    "categorias": ["Caballos", "Jockeys y personajes"],
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
     "descripcion": "Carrió aparece en el archivo sin autor identificado. No se ha localizado un tango documentado con este título en los catálogos consultados; «Carrió» puede ser un nombre propio o un nombre de caballo. El catálogo no consigna autor."
   },
   {
@@ -268,7 +335,9 @@
     "autor": null,
     "imagen": "imagenes/desahuciado.jpg",
     "audio": "audios/desahuciado.mp3",
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Desahuciado es un tango de Rafael Giovinazzi y Salvador Grupillo. En la portada, arriba, se lee: «Carlos Arata obsequia a su amigo R. De La Cruz»; Giovinazzi, cuyo verdadero apellido era Giovinazzo, era pianista (1905-1983); Integró durante mucho tiempo la orquesta de Juan Guido; Es autor del vals «Mascotita de marfil» y del tango «Coquetita», ambos grabados por Carlos Gardel. Otras obras del autor presentes en el catálogo: «Mascotita de marfil», «Coquetita». El catálogo no consigna autor; la atribución proviene del estudio de Crespi y Pinzón."
   },
   {
@@ -276,7 +345,9 @@
     "autor": null,
     "imagen": "imagenes/dinamita.jpg",
     "audio": "audios/dinamita.mp3",
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Dinamita es un tango de Eduardo Arolas. La obra fue grabada por la orquesta de Roberto Firpo para Odeón, disco 549-B; Las fuentes la datan en 1917 o 1918; La crítica destaca su fuerza rítmica y un juego de la melodía que anticipa recursos de Osvaldo Pugliese y Astor Piazzolla décadas después.  El catálogo no consigna autor; la atribución a Arolas aparece en los registros de tango de la Guardia Vieja."
   },
   {
@@ -284,7 +355,9 @@
     "autor": null,
     "imagen": "imagenes/volunteer.jpg",
     "audio": null,
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Volunteer aparece en el archivo sin autor identificado. «Volunteer» es un nombre habitual en la cría de purasangres ingleses; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo no consigna autor."
   },
   {
@@ -292,7 +365,9 @@
     "autor": "Roberto Firpo",
     "imagen": "imagenes/homero.jpg",
     "audio": "audios/homero.mp3",
-    "categorias": ["Sin clasificar"],
+    "categorias": [
+      "Sin clasificar"
+    ],
     "descripcion": "Homero es un tango de Roberto Firpo. Roberto Firpo la incluyó en su catálogo; Conserva grabaciones instrumentales entre 1915 y 1920; Es una de las piezas menores dentro de su abundantísima producción.  No hay dedicatoria documentada ni un destinatario identificado para el título."
   },
   {
@@ -300,7 +375,9 @@
     "autor": "Miguel Angel Caruso",
     "imagen": "imagenes/tatan-solo.jpg",
     "audio": null,
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "¡Tatán Solo! aparece en el archivo sin autor identificado. «Tatán» es un apodo corriente en la sociedad porteña; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo atribuye la obra a Miguel Angel Caruso."
   },
   {
@@ -308,7 +385,9 @@
     "autor": null,
     "imagen": "imagenes/duc-de-fleury.jpg",
     "audio": null,
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Duc de Fleury aparece en el archivo sin autor identificado. «Duc de Fleury» es un nombre propio de raíz francesa; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo no consigna autor."
   },
   {
@@ -316,7 +395,9 @@
     "autor": null,
     "imagen": "imagenes/espiga-de-oro.jpg",
     "audio": "audios/espiga-de-oro.mp3",
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Espiga de Oro es un tango de Juan Félix Maglio, «Pacho». También conocida como «¡Smasher!»; Dedicatoria: «Dedicado a los distinguidos señores Juárez Celman»; Grabada por Maglio y por Juan D'Arienzo; Maglio fue el primer músico en registrar tango en disco, en 1912; Su éxito era tal que en los cafés se pedía «un Pacho», una pieza bailable; Murió el 14 de julio de 1934. Otras obras del autor presentes en el catálogo: «¡Smasher!». Pertenece a la primera generación del tango discográfico."
   },
   {
@@ -324,7 +405,9 @@
     "autor": null,
     "imagen": "imagenes/diogenes.jpg",
     "audio": null,
-    "categorias": ["Sin clasificar"],
+    "categorias": [
+      "Sin clasificar"
+    ],
     "descripcion": "Diógenes aparece en el archivo sin autor identificado. No se ha localizado un tango documentado con este título en los catálogos consultados; «Diógenes» puede evocar al filósofo griego o funcionar como apodo. El catálogo no consigna autor."
   },
   {
@@ -332,7 +415,9 @@
     "autor": "Benito R. Atella",
     "imagen": "imagenes/super-crack.jpg",
     "audio": null,
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "Super Crack aparece en el archivo sin autor identificado. «Super crack» es jerga del turf para designar a un campeón; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo atribuye la obra a Benito R. Atella."
   },
   {
@@ -340,7 +425,9 @@
     "autor": null,
     "imagen": "imagenes/raspail.jpg",
     "audio": "audios/raspail.mp3",
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Raspail aparece en el archivo sin autor identificado. No se ha localizado un tango documentado con este título en los catálogos consultados; «Raspail» es un nombre habitual en la cría de purasangres franceses. El catálogo no consigna autor."
   },
   {
@@ -348,7 +435,9 @@
     "autor": "Gregorio B. Sá",
     "imagen": "imagenes/tiny-al-freno.jpg",
     "audio": null,
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Tiny al Freno es un tango de Gregorio B. Sá. Dedicatoria: «Dedicado al señor Joaquín Gorina. En recuerdo del Gran Premio Nacional de 1919»; La pieza evoca la figura del caballo Tiny en el momento del freno, el final de la carrera.  Pertenece a las partituras que conmemoran grandes victorias del turf argentino."
   },
   {
@@ -356,7 +445,9 @@
     "autor": "Perla Mambero",
     "imagen": "imagenes/ocurrencia-en-marcha.jpg",
     "audio": null,
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Ocurrencia en Marcha es un tango de Perla Mambero. Compuesta por la yegua llamada «Ocurrencia»; No lleva dedicatoria documentada; Es la otra partitura del archivo dedicada a la misma yegua junto con «Ocurrencia».  El autor figura en el catálogo como Perla Mambero."
   },
   {
@@ -364,7 +455,9 @@
     "autor": null,
     "imagen": "imagenes/cabaret.jpg",
     "audio": "audios/cabaret.mp3",
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "Cabaret es un tango de Anselmo Aieta. Dedicatoria: «Dedicado a su distinguido propietario señor Don Alberto A.Muro»; Aieta firma además «Aluminé», dedicado al compositor y jockey Luis Laborde. Otras obras del autor presentes en el catálogo: «Aluminé». El catálogo no consigna autor; la atribución proviene del estudio de Crespi y Pinzón."
   },
   {
@@ -372,7 +465,9 @@
     "autor": null,
     "imagen": "imagenes/desertor.jpg",
     "audio": "audios/desertor.mp3",
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Desertor es un tango de Enrique Sviza. Dedicatoria: «Dedicado a mi estimado amigo Antonio Riccio»; Fue grabada por el Cuarteto La Armonía.  El catálogo no consigna autor; en otras fuentes el apellido figura como Esviza."
   },
   {
@@ -380,7 +475,9 @@
     "autor": "Reinaldo Pellone",
     "imagen": "imagenes/fine-mouche.jpg",
     "audio": null,
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "Fine Mouche es un tango de Reinaldo Pellone. Dedicatoria: «Dedicado a mi querido tío Alberto Carpanelli»; «Fine Mouche» es una expresión francesa que designa a una persona despierta y hábil.  Pertenece a la camada de tangos dedicatorios del primer cuarto del siglo XX."
   },
   {
@@ -388,7 +485,10 @@
     "autor": null,
     "imagen": "imagenes/viejo-pillo.jpg",
     "audio": "audios/viejo-pillo.mp3",
-    "categorias": ["Caballos", "Jockeys y personajes"],
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
     "descripcion": "Viejo Pillo es un tango de Pablo Laise. Dedicatoria: «Dedicado al distinguido sportman señor Ernesto Dufour, al entrenador Juan Lapistoy y al jockey Luís P. Menini»; Laise firma además «Mamita segunda», «Stud Los Cardos», «Peregrino» y «Don Santiago». Otras obras del autor presentes en el catálogo: «Mamita segunda», «Stud Los Cardos», «Peregrino», «Don Santiago». El catálogo no consigna autor."
   },
   {
@@ -396,7 +496,9 @@
     "autor": "Carlos Posadas",
     "imagen": "imagenes/timido.jpg",
     "audio": null,
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Timido es un tango de Carlos Posadas. Posadas escribió además «Guanaco», dedicado al señor Honorio Valdez. Otras obras del autor presentes en el catálogo: «Guanaco». No se ha localizado un registro detallado de «Tímido» en los catálogos consultados."
   },
   {
@@ -404,7 +506,9 @@
     "autor": "Miguel Alfieri",
     "imagen": "imagenes/siete-y-medio.jpg",
     "audio": null,
-    "categorias": ["Sin clasificar"],
+    "categorias": [
+      "Sin clasificar"
+    ],
     "descripcion": "Siete y Medio es un tango de M. F. Alfieri. La Tangothèque la registra con música de Alfieri; Alfieri compuso también «Chambellán», «El dengue», «¿Qué hace Don Victorino?», «Tururún», «Alma negra» y el vals «Nuevas brisas»; Su obra «Augusta» es un homenaje a la carrera ganada el 1 de julio de 1917, con jockey Juan Ceraño y entrenador José Ghigliolti. Otras obras del autor presentes en el catálogo: «Chambellán», «El dengue», «¿Qué hace Don Victorino?», «Tururún», «Alma negra», «Augusta». Pertenece al grupo de partituras que conmemoran carreras específicas."
   },
   {
@@ -412,7 +516,9 @@
     "autor": "Rosendo Mendizábal",
     "imagen": "imagenes/reina-de-saba.jpg",
     "audio": "audios/reina-de-saba.mp3",
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Reina de Saba es un tango de Rosendo Mendizábal. Rosendo Mendizábal (Anselmo Rosendo Cayetano Mendizábal, 1868-1913) es autor también de «El entrerriano», considerado el primer tango llevado a partitura; Dedicatoria: «Dedicado al señor Federico Sívori»; Fue grabada por Roberto Firpo; La edición publicada por Rivarola figura con letra «Nihil». Otras obras del autor presentes en el catálogo: «El entrerriano». Pertenece a los orígenes mismos del tango."
   },
   {
@@ -420,7 +526,9 @@
     "autor": "Ferrazzano-Pollero",
     "imagen": "imagenes/monito.jpg",
     "audio": null,
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Monito aparece en el archivo sin autor identificado. Eduardo Arolas firma «Moñito (Marrón Glacé)» en su catálogo, un título similar pero distinto. El catálogo atribuye la obra a Ferrazzano-Pollero; la atribución no se ha podido verificar en los catálogos consultados."
   },
   {
@@ -428,7 +536,10 @@
     "autor": "N. Mónaco",
     "imagen": "imagenes/melgarejo.jpg",
     "audio": null,
-    "categorias": ["Caballos", "Jockeys y personajes"],
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
     "descripcion": "Melgarejo aparece en el archivo sin autor identificado. «Melgarejo» puede ser un apellido propio o un nombre de caballo; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo atribuye la obra a N. Mónaco."
   },
   {
@@ -436,7 +547,9 @@
     "autor": "Eduardo Arolas",
     "imagen": "imagenes/araca.jpg",
     "audio": null,
-    "categorias": ["Sin clasificar"],
+    "categorias": [
+      "Sin clasificar"
+    ],
     "descripcion": "Araca! es un tango de Eduardo Arolas. Compuesta en 1916 con la colaboración de Roberto Firpo; Conserva una sola versión registrada: el Cuarteto Victor de la Guardia Vieja de 1936, con Francisco Pracánico al piano, Ciriaco Ortiz en bandoneón y Cayetano Puglisi y Antonio Rossi en violines; Luis Díaz cantó «Araca la cana» en la película «Los Tres Berretines». Otras obras del autor presentes en el catálogo: «Araca la cana». Pertenece al momento de mayor productividad de Arolas, junto con «Derecho viejo» y «La guitarrita»."
   },
   {
@@ -444,7 +557,9 @@
     "autor": "Enrique Esviza",
     "imagen": "imagenes/olaf.jpg",
     "audio": null,
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Olaf aparece en el archivo sin autor identificado. Enrique Esviza firma «Desertor», otra partitura del archivo dedicada al turf. El catálogo atribuye la obra a Enrique Esviza; no se ha localizado un registro específico de «Olaf»."
   },
   {
@@ -452,7 +567,9 @@
     "autor": "Antonio Buglione",
     "imagen": "imagenes/lombardo.jpg",
     "audio": null,
-    "categorias": ["Sin clasificar"],
+    "categorias": [
+      "Sin clasificar"
+    ],
     "descripcion": "Lombardo aparece en el archivo sin autor identificado. No se ha localizado un tango documentado con este título en los catálogos consultados; «Lombardo» puede ser un apellido propio o un apodo. El catálogo atribuye la obra a Antonio Buglione."
   },
   {
@@ -460,7 +577,10 @@
     "autor": "G. H. Matos Rodríguez",
     "imagen": "imagenes/palospavos.jpg",
     "audio": null,
-    "categorias": ["Caballos", "Jockeys y personajes"],
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
     "descripcion": "Palospavos es un tango de Miguel La Salvia. «Palospavos» es en la jerga del turf el color del caballo, un tono oscuro; Dedicatoria: «Dedicado al crack de los entrenadores Don Juan Torterolo»; Fue grabada por el Cuarteto La Armonía; La Salvia fue violinista, debutó en 1912 con un trío que integraba Carlos Marcucci y formó parte en 1924 de la orquesta gigante de Julio De Caro.  El catálogo atribuye la obra a G. H. Matos Rodríguez; la discrepancia debería revisarse en la portada original."
   },
   {
@@ -468,7 +588,9 @@
     "autor": null,
     "imagen": "imagenes/el-crack-de-los-cracks.jpg",
     "audio": null,
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "El Crack de los Cracks aparece en el archivo sin autor identificado. «Crack» es la palabra que el turf usa para designar a un campeón; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo no consigna autor."
   },
   {
@@ -476,7 +598,9 @@
     "autor": "Pedro M. Peirano",
     "imagen": "imagenes/botafogo.jpg",
     "audio": "audios/botafogo.mp3",
-    "categorias": ["Sin clasificar"],
+    "categorias": [
+      "Sin clasificar"
+    ],
     "descripcion": "Botafogo es un tango de Pedro M. Peirano. «Botafogo» fue también el nombre de un conocido cabaret porteño donde Eduardo Arolas y Roberto Firpo tocaron en la guardia vieja.  El catálogo atribuye la obra a Pedro M. Peirano; no se ha localizado un registro específico de «Botafogo» con esa firma."
   },
   {
@@ -484,7 +608,9 @@
     "autor": null,
     "imagen": "imagenes/volvio-leguisamo.jpg",
     "audio": null,
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "Volvio Leguisamo aparece en el archivo sin autor identificado. El título refiere a Irineo Leguisamo, el más grande jockey uruguayo-argentino; Leguisamo ganó 144 carreras en su mejor temporada, 1944; Obtuvo el Gran Premio Carlos Pellegrini en diez ocasiones y el Gran Premio Jockey Club en siete; Conquistó once Copas de Oro y dieciocho Pollas de Potrillos o Potrancas; Fue amigo de Carlos Gardel, a quien conoció en el Hipódromo de Maroñas. El catálogo no consigna autor; no se ha localizado un tango documentado con este título."
   },
   {
@@ -492,7 +618,9 @@
     "autor": null,
     "imagen": "imagenes/vilmar-sanguinetti.jpg",
     "audio": null,
-    "categorias": ["Sin clasificar"],
+    "categorias": [
+      "Sin clasificar"
+    ],
     "descripcion": "Vilmar Sanguinetti aparece en el archivo sin autor identificado. «Vilmar Sanguinetti» es un nombre propio de raíz italiana; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo no consigna autor."
   },
   {
@@ -500,7 +628,9 @@
     "autor": "Alberico Spátola",
     "imagen": "imagenes/tapon.jpg",
     "audio": null,
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "Tapon es un tango de Alberico Spátola. Dedicatoria: «Dedicado al popular entrenador Vicente Fernández».  Pertenece a la camada de partituras que homenajean a los entrenadores del turf."
   },
   {
@@ -508,7 +638,9 @@
     "autor": null,
     "imagen": "imagenes/salvame-legui.jpg",
     "audio": "audios/salvame-legui.mp3",
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "Salvame, Legui aparece en el archivo sin autor identificado. El título es un pedido de auxilio dirigido al jockey Irineo Leguisamo; Leguisamo ganó 144 carreras en 1944, diez Pelletrini, siete Jockey Club, once Copas de Oro y dieciocho Pollas de Potrillos; Gardel lo conoció en el Hipódromo de Maroñas. El catálogo no consigna autor."
   },
   {
@@ -516,7 +648,9 @@
     "autor": "Osv. Tarantino/Alb. Rava",
     "imagen": "imagenes/por-este-escolazo.jpg",
     "audio": null,
-    "categorias": ["Sin clasificar"],
+    "categorias": [
+      "Sin clasificar"
+    ],
     "descripcion": "Por este Escolazo aparece en el archivo sin autor identificado. «Escolazo» es jerga porteña para alguien de gran influencia o tamaño; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo atribuye la obra a Osvaldo Tarantino y Alb. Ra., y registra una dedicatoria incompleta en el campo de autor."
   },
   {
@@ -524,7 +658,9 @@
     "autor": null,
     "imagen": "imagenes/pelusita.jpg",
     "audio": "audios/pelusita.mp3",
-    "categorias": ["Sin clasificar"],
+    "categorias": [
+      "Sin clasificar"
+    ],
     "descripcion": "Pelusita aparece en el archivo sin autor identificado. «Pelusita» es un diminutivo familiar habitual; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo no consigna autor."
   },
   {
@@ -532,7 +668,9 @@
     "autor": "Goyito/Ed. V. Requena",
     "imagen": "imagenes/pelusa-solo.jpg",
     "audio": null,
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "Pelusa Solo aparece en el archivo sin autor identificado. «Pelusa» es un apodo corriente en la sociedad porteña; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo atribuye la obra a Goyito y Ed. V. Requena."
   },
   {
@@ -540,7 +678,9 @@
     "autor": null,
     "imagen": "imagenes/pelletier-toda-la-vida.jpg",
     "audio": null,
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "Pelletier!..Toda la Vida! aparece en el archivo sin autor identificado. No se ha localizado un tango documentado con este título en los catálogos consultados; El formato del título, con exclamación y promesa, es típico de los tangos dedicatorios de la primera mitad del siglo XX. El catálogo no consigna autor."
   },
   {
@@ -548,7 +688,9 @@
     "autor": "A. P. Berto",
     "imagen": "imagenes/pele.jpg",
     "audio": null,
-    "categorias": ["Sin clasificar"],
+    "categorias": [
+      "Sin clasificar"
+    ],
     "descripcion": "Pele aparece en el archivo sin autor identificado. «Pelé» puede ser un nombre propio o un nombre de caballo; Augusto P. Berto, autor del catálogo, es además autor de trabajos sobre historia del tango. El catálogo atribuye la obra a A. P. Berto."
   },
   {
@@ -556,7 +698,9 @@
     "autor": "Alfredo R. De Siano",
     "imagen": "imagenes/pancho-galera.jpg",
     "audio": null,
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "Pancho Galera aparece en el archivo sin autor identificado. «Pancho Galera» es un nombre propio compuesto; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo atribuye la obra a Alfredo R. De Siano."
   },
   {
@@ -564,7 +708,9 @@
     "autor": "J.G Martínez de Hoz",
     "imagen": "imagenes/negro-lindo.jpg",
     "audio": null,
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Negro Lindo aparece en el archivo sin autor identificado. «Negro Lindo» puede ser un nombre cariñoso o un nombre de caballo; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo atribuye la obra a J. G. Martínez de Hoz."
   },
   {
@@ -572,7 +718,9 @@
     "autor": null,
     "imagen": "imagenes/mereces-un-monumento.jpg",
     "audio": "audios/mereces-un-monumento.mp3",
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "Mereces un Monumento aparece en el archivo sin autor identificado. La fórmula «mereces un monumento» es típica de los tangos homenaje a una persona o un caballo; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo no consigna autor."
   },
   {
@@ -580,7 +728,9 @@
     "autor": "Genaro Espósito",
     "imagen": "imagenes/manos-de-seda.jpg",
     "audio": null,
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "Manos de Seda aparece en el archivo sin autor identificado. «Manos de seda» es una metáfora habitual del tango para designar a un pianista o un bailarín; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo atribuye la obra a Genaro Espósito."
   },
   {
@@ -588,7 +738,9 @@
     "autor": null,
     "imagen": "imagenes/leguisamo-solo.jpg",
     "audio": "audios/leguisamo-solo.mp3",
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "Leguisamo Solo! es un tango de Modesto Papavero. Compuso el tango el domingo 15 de junio de 1925, tras presenciar el triunfo del caballo Rebenque, montado por Leguisamo en Palermo; Esa misma noche Tita Merello lo estrenó en una revista del Teatro Bataclán, «En la raya lo esperamos»; La letra y la música de la revista eran de Luis Bayón Herrera y del propio Papavero; Carlos Gardel lo llevó al disco dos veces: en Barcelona el 27 de diciembre de 1925 con la guitarra de José Ricardo, y en Buenos Aires el 23 de setiembre de 1927 con Ricardo y Barbieri, ambas grabaciones para Odeón. Otras obras del autor presentes en el catálogo: «En la raya lo esperamos». El catálogo no consigna autor."
   },
   {
@@ -596,7 +748,9 @@
     "autor": "F. Silvetti / C. Barton",
     "imagen": "imagenes/jacinto-sola.jpg",
     "audio": null,
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "Jacinto Sola aparece en el archivo sin autor identificado. «Jacinto Sola» es un nombre propio compuesto; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo atribuye la obra a F. Silvetti y C. Barto."
   },
   {
@@ -604,7 +758,9 @@
     "autor": "Alfredo A. Bevilacqua",
     "imagen": "imagenes/gran-muneca.jpg",
     "audio": "audios/gran-muneca.mp3",
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "Gran Muñeca es un tango de Alfredo A. Bevilacqua. Alfredo Bevilacqua (1874-1942) fue uno de los grandes instrumentistas y compositores de la guardia vieja; Dedicatoria: «Dedicado al eximio Jockey sudamericano Domingo Torterolo»; También compuso «Venus» (1902), «Independencia» (1910), «Emancipación», «Primera junta», «Apolo», «Recuerdos de la pampa», «Cabo cuarto», «La criolla» y «Brisas del sur» (1933). Otras obras del autor presentes en el catálogo: «Venus», «Independencia», «Emancipación», «Primera junta», «Apolo», «Recuerdos de la pampa», «Cabo cuarto», «La criolla», «Brisas del sur». Torterolo fue además el jinete de la yegua Ocurrencia en su victoria en el Gran Premio Carlos Pellegrini de 1915."
   },
   {
@@ -612,7 +768,9 @@
     "autor": "Pedro Barbieri/Peroni",
     "imagen": "imagenes/fusta-de-oro.jpg",
     "audio": null,
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "Fusta de Oro aparece en el archivo sin autor identificado. «Fusta» es el nombre del látigo corto que usa el jinete para guiar al caballo; «Fusta de oro» designa a un jinete excepcional o a un caballo campeón. El catálogo atribuye la obra a Pedro Barbieri y Peroni."
   },
   {
@@ -620,7 +778,9 @@
     "autor": "Pablo Rodriguez",
     "imagen": "imagenes/emilio-ruiz.jpg",
     "audio": "audios/emilio-ruiz.mp3",
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "Emilio Ruiz aparece en el archivo sin autor identificado. «Emilio Ruiz» es un nombre propio compuesto; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo atribuye la obra a Pablo Rodríguez."
   },
   {
@@ -628,7 +788,9 @@
     "autor": null,
     "imagen": "imagenes/el-zurdo.jpg",
     "audio": "audios/el-zurdo.mp3",
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "El Zurdo aparece en el archivo sin autor identificado. «El Zurdo» es un apodo corriente en el ambiente del fútbol y del turf; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo no consigna autor."
   },
   {
@@ -636,7 +798,9 @@
     "autor": "Ismael Ftino. Gómez",
     "imagen": "imagenes/el-jockey-del-bosque.jpg",
     "audio": null,
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "El Jockey del Bosque es un tango de Ismael Gómez. Ismael Gómez era guitarrista, cantor y compositor; Su obra más conocida es «Pan comido», de 1926, con letra de Enrique Dizeo, estrenada en el Café El Nacional de Buenos Aires; Trabajó además como letrista y como intérprete en orquestas de la época. Otras obras del autor presentes en el catálogo: «Pan comido». El catálogo atribuye la obra a Ismael Ftino. Gómez; no se ha localizado un registro específico de «El Jockey del Bosque»."
   },
   {
@@ -644,7 +808,9 @@
     "autor": null,
     "imagen": "imagenes/di-tomaso.jpg",
     "audio": null,
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "Di Tomaso aparece en el archivo sin autor identificado. «Di Tomaso» es un apellido de raíz italiana; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo no consigna autor."
   },
   {
@@ -652,7 +818,9 @@
     "autor": null,
     "imagen": "imagenes/dale-pulpo.jpg",
     "audio": null,
-    "categorias": ["Sin clasificar"],
+    "categorias": [
+      "Sin clasificar"
+    ],
     "descripcion": "Dale Pulpo aparece en el archivo sin autor identificado. «Dale Pulpo» es una expresión coloquial sin equivalente claro en el léxico hípico; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo no consigna autor."
   },
   {
@@ -660,7 +828,9 @@
     "autor": null,
     "imagen": "imagenes/correntino.jpg",
     "audio": "audios/correntino.mp3",
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Correntino aparece en el archivo sin autor identificado. «Correntino» designa a una persona o a un caballo proveniente de la provincia de Corrientes; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo no consigna autor."
   },
   {
@@ -668,7 +838,9 @@
     "autor": null,
     "imagen": "imagenes/antunez.jpg",
     "audio": "audios/antunez.mp3",
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "Antunez aparece en el archivo sin autor identificado. «Antúnez» es un apellido de origen ibérico; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo no consigna autor."
   },
   {
@@ -676,7 +848,9 @@
     "autor": "Juan Carlos Rolón",
     "imagen": "imagenes/anibal-solo-nomas.jpg",
     "audio": null,
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "Anibal Solo Nomas aparece en el archivo sin autor identificado. «Aníbal solo no más» evoca la imagen de un jockey llamado Aníbal corriendo en solitario; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo atribuye la obra a Juan Carlos Rolón."
   },
   {
@@ -684,7 +858,9 @@
     "autor": null,
     "imagen": "imagenes/anibal-etchart.jpg",
     "audio": null,
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "Anibal Etchart aparece en el archivo sin autor identificado. «Etchart» es un apellido muy vinculado a las carreras argentinas y uruguayas; Aníbal puede ser nombre de jockey, de caballo o de persona allegada al turf. El catálogo no consigna autor."
   },
   {
@@ -692,7 +868,9 @@
     "autor": "Venancio Lagrotta",
     "imagen": "imagenes/acosta-en-punta.jpg",
     "audio": "audios/acosta-en-punta.mp3",
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "Acosta en Punta aparece en el archivo sin autor identificado. «Acosta en punta» describe a un jinete o un caballo en la delantera; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo atribuye la obra a Venancio Lagrotta."
   },
   {
@@ -700,7 +878,9 @@
     "autor": "Luis Etchebarne",
     "imagen": "imagenes/a-pablito-falero.jpg",
     "audio": null,
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "A Pablito Falero es un tango de Luis Etchebarne. «Falero» es un apellido de larga tradición en la familia de jockeys del Río de la Plata; El jockey más famoso de la familia, Pablo Gustavo Falero, apodado «Aladino», nació en 1966 en Conchillas, Uruguay; La pieza de Etchebarne debe corresponder, por la época, a una generación anterior de la familia; Existe un tango moderno llamado «Alguien llamado Falero», de Oscar Barrios y Rubén Rey, dedicado al jockey Pablo Gustavo Falero. Otras obras del autor presentes en el catálogo: «Alguien llamado Falero». No se ha localizado un registro específico de la pieza de Etchebarne en los catálogos consultados."
   },
   {
@@ -708,7 +888,9 @@
     "autor": "Antonio Helú",
     "imagen": "imagenes/a-cobrar.jpg",
     "audio": null,
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "A Cobrar es un tango de Antonio Helú. «A cobrar» es una fórmula de cobro o de desafio; Antonio Helú fue un destacado compositor y pianista haitiano-argentino de la guardia vieja.  No se ha localizado un registro específico de esta pieza en los catálogos consultados."
   },
   {
@@ -716,7 +898,9 @@
     "autor": null,
     "imagen": "imagenes/vamos-topo-todavia.jpg",
     "audio": "audios/vamos-topo-todavia.mp3",
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "¡Vamos Topo Todavia! aparece en el archivo sin autor identificado. «Topo» es un apode corriente en la sociedad porteña para alguien discreto o subterranean; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo no consigna autor."
   },
   {
@@ -724,7 +908,9 @@
     "autor": "Amable H. Botti",
     "imagen": "imagenes/paralo-legui.jpg",
     "audio": null,
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "¡Paralo Legui! aparece en el archivo sin autor identificado. El título es una orden dirigida al jockey Irineo Leguisamo; Leguisamo fue el máximo ídolo del turf rioplatense, ganador de diez Pelletrini y siete Jockey Club; Gardel lo conoció en el Hipódromo de Maroñas y le compuso elogios verbales que se hicieron famosos. El catálogo atribuye la obra a Amable H. Botti."
   },
   {
@@ -732,7 +918,9 @@
     "autor": "Benito R. Atella",
     "imagen": "imagenes/legui-viejo.jpg",
     "audio": null,
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "¡Legui Viejo! aparece en el archivo sin autor identificado. El título homenajea al jockey Irineo Leguisamo, ya veterano hacia el final de su carrera; Leguisamo se retiró después de décadas en la cima del turf argentino y uruguayo; Gardel le dedicó el apelativo cariñoso de «El Mono». El catálogo atribuye la obra a Benito R. Atella."
   },
   {
@@ -740,7 +928,9 @@
     "autor": "Pedro Polito",
     "imagen": "imagenes/sisley.jpg",
     "audio": null,
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Sisley aparece en el archivo sin autor identificado. Existió un caballo llamado Sisley, nacido en 1920, hijo de Flores y Madonna Mia; Fue criado en el Haras Los Cardales, de Antonio Santamarina, y propiedad del Stud Raynal, con cuidador Juan V. da Silva; También Edgardo Donato compuso un «Sisley» en su catálogo. El catálogo atribuye la obra a Pedro Polito; la atribución no se ha podido verificar en los catálogos consultados."
   },
   {
@@ -748,7 +938,9 @@
     "autor": "Orlando Romanelli",
     "imagen": "imagenes/scarone.jpg",
     "audio": null,
-    "categorias": ["Sin clasificar"],
+    "categorias": [
+      "Sin clasificar"
+    ],
     "descripcion": "Scarone aparece en el archivo sin autor identificado. «Scarone» es un apellido de raíz italiana; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo atribuye la obra a Orlando Romanelli."
   },
   {
@@ -756,7 +948,9 @@
     "autor": "R. Fernández (Mendocino)",
     "imagen": "imagenes/romantico-solo.jpg",
     "audio": null,
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Romantico Solo aparece en el archivo sin autor identificado. «Romántico Solo» evoca un caballo o un jinete en carrera, en clave lírica; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo atribuye la obra a R. Fernández (Mendocino)."
   },
   {
@@ -764,7 +958,9 @@
     "autor": null,
     "imagen": "imagenes/perseus.jpg",
     "audio": "audios/perseus.mp3",
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Perseus aparece en el archivo sin autor identificado. «Perseus» es un nombre propio de raíz griega; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo no consigna autor."
   },
   {
@@ -772,7 +968,10 @@
     "autor": null,
     "imagen": "imagenes/palospavos-2.jpg",
     "audio": null,
-    "categorias": ["Caballos", "Jockeys y personajes"],
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
     "descripcion": "Palospavos (2) es un tango de Miguel La Salvia. Segunda copia de «Palospavos» en el archivo, identificada por el nombre de archivo; «Palospavos» designa en la jerga del turf el color oscuro del caballo; Dedicatoria: «Dedicado al crack de los entrenadores Don Juan Torterolo»; Fue grabada por el Cuarteto La Armonía; La Salvia fue violinista, debutó en 1912 con un trío que integraba Carlos Marcucci y formó parte en 1924 de la orquesta gigante de Julio De Caro.  El catálogo no consigna autor en esta copia; en la otra copia aparece G. H. Matos Rodríguez, discrepancia que debe revisarse."
   },
   {
@@ -780,7 +979,9 @@
     "autor": "Ricardo Alfaro",
     "imagen": "imagenes/mameluke.jpg",
     "audio": null,
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Mameluke aparece en el archivo sin autor identificado. «Mameluke» es un nombre habitual de caballos en la cría europea; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo atribuye la obra a Ricardo Alfaro."
   },
   {
@@ -788,7 +989,9 @@
     "autor": "Alfonso Diez Jones",
     "imagen": "imagenes/filon.jpg",
     "audio": null,
-    "categorias": ["Carreras y apuestas"],
+    "categorias": [
+      "Carreras y apuestas"
+    ],
     "descripcion": "Filon aparece en el archivo sin autor identificado. «Filón» es un término de las apuestas hípicas para una combinación de caballos; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo atribuye la obra a Alfonso Díez Jones."
   },
   {
@@ -796,7 +999,9 @@
     "autor": "Alfredo Bergmann",
     "imagen": "imagenes/el-guerrillero.jpg",
     "audio": null,
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "El Guerrillero aparece en el archivo sin autor identificado. «Guerrillero» evoca a un luchador o a un caballo de carrera aguerrido; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo atribuye la obra a Alfredo Bergmann."
   },
   {
@@ -804,7 +1009,9 @@
     "autor": null,
     "imagen": "imagenes/crack-penny-post.jpg",
     "audio": null,
-    "categorias": ["Caballos"],
+    "categorias": [
+      "Caballos"
+    ],
     "descripcion": "Crack Penny Post aparece en el archivo sin autor identificado. «Crack» es la palabra del turf para un campeón; «Penny» y «Post» sugieren un nombre de caballo con resonancia inglesa; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo no consigna autor."
   },
   {
@@ -812,7 +1019,9 @@
     "autor": null,
     "imagen": "imagenes/cocles.jpg",
     "audio": null,
-    "categorias": ["Sin clasificar"],
+    "categorias": [
+      "Sin clasificar"
+    ],
     "descripcion": "Cocles aparece en el archivo sin autor identificado. «Cocles» puede ser un nombre propio o una lectura defectuosa de otro título; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo no consigna autor."
   },
   {
@@ -820,7 +1029,9 @@
     "autor": "José L. Visca",
     "imagen": "imagenes/buen-ojo.jpg",
     "audio": null,
-    "categorias": ["Studs e instituciones"],
+    "categorias": [
+      "Studs e instituciones"
+    ],
     "descripcion": "Buen Ojo aparece en el archivo sin autor identificado. «Buen ojo» es la virtud de elegir buenos caballos; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo atribuye la obra a José L. Visca."
   },
   {
@@ -828,7 +1039,9 @@
     "autor": "Mario De Marco",
     "imagen": "imagenes/arturo-a.jpg",
     "audio": null,
-    "categorias": ["Jockeys y personajes"],
+    "categorias": [
+      "Jockeys y personajes"
+    ],
     "descripcion": "Arturo A aparece en el archivo sin autor identificado. «Arturo A» puede ser un nombre propio seguido de una inicial; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo atribuye la obra a Mario De Marco."
   }
 ]
