@@ -452,6 +452,7 @@ a {
 .detail-audio {
   width: 100%;
   max-width: 460px;
+  display: block;
 }
 
 .lightbox-close {

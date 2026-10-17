@@ -599,9 +599,9 @@
     "imagen": "imagenes/botafogo.jpg",
     "audio": "audios/botafogo.mp3",
     "categorias": [
-      "Sin clasificar"
+      "Caballos"
     ],
-    "descripcion": "Botafogo es un tango de Pedro M. Peirano. «Botafogo» fue también el nombre de un conocido cabaret porteño donde Eduardo Arolas y Roberto Firpo tocaron en la guardia vieja.  El catálogo atribuye la obra a Pedro M. Peirano; no se ha localizado un registro específico de «Botafogo» con esa firma."
+    "descripcion": "Botafogo es un tango de Pedro M. Peirano, dedicado al sportman Diego de Alvear, propietario del legendario caballo Botafogo, según la dedicatoria que conserva la segunda copia del archivo. «Botafogo» fue también el nombre de un conocido cabaret porteño donde Eduardo Arolas y Roberto Firpo tocaron en la guardia vieja, pero la portada de esa copia permite confirmar que el título homenajea al crack equino. El catálogo atribuye la obra a Pedro M. Peirano; no se ha localizado un registro específico de «Botafogo» con esa firma."
   },
   {
     "titulo": "Volvio Leguisamo",
@@ -1043,5 +1043,196 @@
       "Jockeys y personajes"
     ],
     "descripcion": "Arturo A aparece en el archivo sin autor identificado. «Arturo A» puede ser un nombre propio seguido de una inicial; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo atribuye la obra a Mario De Marco."
+  },
+  {
+    "titulo": "A Royal Maui",
+    "autor": "M. Fébula / W. Aravenis",
+    "imagen": "imagenes/a-royal-maui.jpg",
+    "audio": null,
+    "descripcion": "Partitura de una milonga para dos guitarras y contrabajo, con música firmada por M. Fébula y W. Aravenis según la carátula del arreglo. No se ha localizado la obra en los catálogos de tango; los autores figuran solo con las iniciales impresas en la portada. El título, con su resonancia de pura sangre inglés, sugiere un homenaje hípico, pero no se ha podido confirmar que «Royal Maui» sea el nombre de un caballo. Se conserva con el carácter de arreglo instrumental para formación de cámara. No se ha localizado una grabación de la obra en las discografías consultadas.",
+    "categorias": [
+      "Sin clasificar"
+    ]
+  },
+  {
+    "titulo": "A Yatasto",
+    "autor": "Luis Fernando Baravaglio (Lucho Arroyo)",
+    "imagen": "imagenes/a-yatasto.jpg",
+    "audio": null,
+    "descripcion": "Tango con letra y música de Luis Fernando Baravaglio (Lucho Arroyo), impreso el 13 de agosto de 1954 por la Editorial Musical APubliese de Buenos Aires como propiedad del autor. La portada dibuja un caballo con bozal enmarcado por estrellas, lo que inscribe la obra en el repertorio de homenajes equinos; el título evoca el nombre del caballo legendario de las campañas del norte argentino. No se ha localizado una grabación de la obra en las discografías consultadas.",
+    "categorias": [
+      "Caballos"
+    ]
+  },
+  {
+    "titulo": "Acrobata",
+    "autor": "Horacio Mackintosh",
+    "imagen": "imagenes/acrobata.jpg",
+    "audio": null,
+    "descripcion": "Es un tango para piano de Horacio Mackintosh, autor también de «El tango de la muerte» (1917). La portada encabeza la dedicatoria «Al Stud Indecis» y reproduce la fotografía de un jinete en pista, lo que sugiere que la obra conmemora a un ejemplar de ese stud. El catálogo de partituras del IIMCV registra la obra como «Acróbata, tango para piano» de Horacio Makintosh. No se ha localizado una grabación de la obra en las discografías consultadas.",
+    "categorias": [
+      "Caballos",
+      "Studs e instituciones"
+    ]
+  },
+  {
+    "titulo": "Aldeano solo",
+    "autor": "Francisco Airaldi",
+    "imagen": "imagenes/aldeano-solo.jpg",
+    "audio": null,
+    "descripcion": "Es un tango para piano de Francisco Airaldi, compositor uruguayo, dedicado al señor Jorge Mitre, «propietario del gran producto uruguayo hijo de Yago II», según la dedicatoria impresa en la portada. Aldeano, hijo de Yago II y Zamarra, ganó el Premio Jockey Club en Maroñas el 19 de septiembre de 1920, y el título se suma a la fórmula «solo» de los tangos que celebran a un favorito que corre sin rivales, como «Leguisamo Solo». La partitura fue editada por Casa Alonso de Montevideo, único editor autorizado.",
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ]
+  },
+  {
+    "titulo": "Alumine",
+    "autor": "Anselmo Aieta",
+    "imagen": "imagenes/alumine.jpg",
+    "audio": null,
+    "descripcion": "Es un tango criollo para piano de Anselmo Aieta, dedicado al compositor y jockey Luis Laborde, según la dedicatoria impresa en la portada. El catálogo fecha la obra hacia 1915 y la lista de la portada anuncia, del mismo autor, «Año viejo», «La Paisanada» y «La Juanita». La ficha de «Cabaret» del propio archivo ya registraba a «Aluminé» entre las obras de Aieta dedicadas a Laborde. No se ha localizado una grabación de la obra en las discografías consultadas.",
+    "categorias": [
+      "Jockeys y personajes"
+    ]
+  },
+  {
+    "titulo": "Aral",
+    "autor": "Mateo Cóppola",
+    "imagen": "imagenes/aral.jpg",
+    "audio": null,
+    "descripcion": "Es un tango de Mateo Cóppola, dedicado a los propietarios del caballo y, afectuosamente, al competente entrenador Gilberto Calderón, según la dedicatoria de la portada. La lámina reproduce la fotografía de la ganadora de la Polla de Potrillos de 1925 con su jinete, y anuncia el gran éxito de la obra en la Orquesta Universal. No se ha localizado una grabación histórica del tango en las discografías consultadas.",
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ]
+  },
+  {
+    "titulo": "Art nouveau",
+    "autor": "Fausto Frontera",
+    "imagen": "imagenes/art-nouveau.jpg",
+    "audio": null,
+    "descripcion": "Es un tango-milonga para piano de Fausto Frontera, dedicado al jockey señor Francisco Arcuri, según la portada editada por J. Ghio Carlovich en Buenos Aires. La lámina, adornada con columnas y racimos de estilo modernista, juega con el nombre del título, que alude al movimiento artístico que decoró las portadas de la época. No se ha localizado una grabación de la obra en las discografías consultadas.",
+    "categorias": [
+      "Jockeys y personajes"
+    ]
+  },
+  {
+    "titulo": "Astuto",
+    "autor": "Piro y Desábato",
+    "imagen": "imagenes/astuto.jpg",
+    "audio": null,
+    "descripcion": "Es un tango turfista con letra y música de Piro y Desábato, fechado en 1928, dedicado al Stud Aprile y al jockey Salustiano Pintado, según la portada de Ediciones Musicales Julio Korn. La lámina muestra al caballo saltando una valla y la propia portada se jacta de haber sido «premiada con primer gran premio por todos los burreros». No se ha localizado una grabación histórica del tango en las discografías consultadas.",
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ]
+  },
+  {
+    "titulo": "Augusta",
+    "autor": "M. F. Alfieri",
+    "imagen": "imagenes/augusta.jpg",
+    "audio": null,
+    "descripcion": "Es un tango para piano de M. F. Alfieri, que la portada titula «Tango Cátedra». La dedicatoria impresa lo anuncia como homenaje a la carrera ganada el 1º de julio de 1917 por Augusta, hija de Druid e Isolina, con Juan Ceraño de jockey y José Ghigliolti de entrenador. La obra figura fechada en 1916 en los catálogos, aunque la carrera que celebra es de 1917. La ficha de «Siete y Medio» del propio archivo ya registraba «Augusta» entre los homenajes de Alfieri. No se ha localizado una grabación de la obra en las discografías consultadas.",
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ]
+  },
+  {
+    "titulo": "Avatar",
+    "autor": "Alberto Alonso y Luis Vispiana",
+    "imagen": "imagenes/avatar.jpg",
+    "audio": null,
+    "descripcion": "Es un tango turfístico con letra de Alberto Alonso y Luis Vispiana. La portada reproduce la letra completa, con versos que retratan al ejemplar veterano en plena carrera: «¡Avatar, viejo y peludo!... Sos un verdadero crack. Sos guapo de ley, no tenés rival». Alonso fue pianista y compositor uruguayo, y el apellido del coautor podría corresponder al cantor Luis Viapiana. No se ha localizado una grabación histórica del tango en las discografías consultadas.",
+    "categorias": [
+      "Caballos",
+      "Carreras y apuestas"
+    ]
+  },
+  {
+    "titulo": "Añancué",
+    "autor": "Francisco Storino",
+    "imagen": "imagenes/anancue.jpg",
+    "audio": null,
+    "descripcion": "Es un tango criollo para piano de Francisco Storino, dedicado al distinguido propietario señor Gervasio Mentastes «en testimonio del mayor afecto», según la portada, que conserva una dedicatoria manuscrita fechada en septiembre de 1937. La obra figura en los estudios sobre las partituras de turf con la grafía «Añencué». El catálogo del propio archivo la había registrado sin documentación; la portada permite ahora vincularla al ejemplar del stud de Mentastes.",
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ]
+  },
+  {
+    "titulo": "Botafogo for ever",
+    "autor": "Alberto Gambino",
+    "imagen": "imagenes/botafogo-for-ever.jpg",
+    "audio": null,
+    "descripcion": "Es el primer tango para piano de Alberto Gambino, dedicado a los señores Diego de Alvear y Felipe Vizcay, «propietario y compositor del mejor caballo del mundo», según la portada, que reproduce dos fotografías: el caballo en la pista y la multitud en las tribunas. Los catálogos fechan la obra en 1918-1919, y constituye un homenaje a Botafogo, el crack de Diego de Alvear que paralizó a Maroñas y Palermo en la década de 1910. Es una obra distinta del «Botafogo» de Pedro M. Peirano presente en el archivo.",
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ]
+  },
+  {
+    "titulo": "Brujo",
+    "autor": "Domingo Greco",
+    "imagen": "imagenes/brujo.jpg",
+    "audio": null,
+    "descripcion": "Es un tango para piano de Domingo Greco (1891-1938), dedicado al distinguido señor Mario Tezanos Pinto, según la portada editada por el propio compositor. La lista de la portada anuncia, del mismo autor, «Verdurita» y «La Tanita». La obra está registrada en Todotango y en la Tangothèque, pero no se ha localizado una grabación histórica en las discografías consultadas.",
+    "categorias": [
+      "Jockeys y personajes"
+    ]
+  },
+  {
+    "titulo": "Bubalcó",
+    "autor": "Alberto Tavarozzi",
+    "imagen": "imagenes/bubalco.jpg",
+    "audio": null,
+    "descripcion": "Es un tango turfístico con letra y música de Alberto Tavarozzi, impreso el 18 de octubre de 1941. La dedicatoria se dirige al propietario del Stud «El Grillo» y al inteligente entrenador Guillermo A. Cervi, preparador del crack Bubalcó, cuya fotografía ilustra la portada junto al retrato del dedicatario. Es de las piezas tardías del género, cuando el tango ya había dejado atrás la guardia vieja pero el turf seguía dando temas.",
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes",
+      "Studs e instituciones"
+    ]
+  },
+  {
+    "titulo": "Caíd",
+    "autor": "S. y L. Matos Rodríguez",
+    "imagen": "imagenes/caid.jpg",
+    "audio": null,
+    "descripcion": "Tango manuscrito para piano y violín, firmado «S. y L. Matos Rodríguez». Los investigadores lo identifican como una pieza inédita de Gerardo Matos Rodríguez, el autor de «La Cumparsita», compuesta en 1923 y dedicada a Juan Caviglia. El título, de resonancia árabe, no remite a un caballo documentado ni a una carrera conocida, por lo que la obra se conserva en el archivo sin clasificación hípica precisa.",
+    "categorias": [
+      "Sin clasificar"
+    ]
+  },
+  {
+    "titulo": "Capablanca solo",
+    "autor": "Enrique Delfino (Delfi)",
+    "imagen": "imagenes/capablanca-solo.jpg",
+    "audio": null,
+    "descripcion": "Es un tango para piano de Enrique Delfino, «Delfi», premiado en el Gran Concurso de Tangos efectuado en el Gran Splendid Theatre, según la portada. Los catálogos la fechan en 1924, el año en que José Raúl Capablanca era campeón mundial de ajedrez, y el título juega con la fórmula «solo» de los favoritos que corren sin rivales. No se ha localizado una grabación histórica del tango en las discografías consultadas.",
+    "categorias": [
+      "Sin clasificar"
+    ]
+  },
+  {
+    "titulo": "Capablanca",
+    "autor": "Adolfo A. Pérez (Pocholo)",
+    "imagen": "imagenes/capablanca.jpg",
+    "audio": null,
+    "descripcion": "Es un tango para piano de Adolfo A. Pérez, «Pocholo», dedicado al distinguido compositor Naciano Moreno y al señor Joaquín Noschesse, afectuosamente, según la portada del editor Luis Filardi. La lámina dibuja un jinete sobre su caballo, lo que inscribe el homenaje en el repertorio equino del turf. No se ha localizado una grabación de la obra en las discografías consultadas.",
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ]
+  },
+  {
+    "titulo": "Botafogo",
+    "autor": "Pedro M. Peirano",
+    "imagen": "imagenes/botafogo-2.jpg",
+    "audio": null,
+    "descripcion": "Segunda copia del «Botafogo» de Pedro M. Peirano presente en el archivo, identificada por el nombre de archivo. La portada de esta copia está dedicada al distinguido sportman señor Diego de Alvear y reproduce, dentro de un escudo de franjas amarillas y negras, la cabeza del caballo con su jockey. Esa dedicatoria permite confirmar que el título homenajea al legendario Botafogo de Alvear y no al cabaret porteño homónimo. La otra copia conserva la tercera edición del editor José A. Medina.",
+    "categorias": [
+      "Caballos"
+    ]
   }
 ]

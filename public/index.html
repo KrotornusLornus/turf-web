@@ -9,7 +9,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Lora:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/css/styles.css">
-  <link rel="stylesheet" href="/css/editor.css">
 </head>
 <body>
 
@@ -96,7 +95,6 @@
       Obras difundidas con fines culturales · Archivo reunido por
       <strong>Carlos Wolf</strong>
     </p>
-    <button id="btn-editar" class="btn-editar" type="button">✎ Editar catálogo</button>
   </footer>
 
   <div id="lightbox" class="lightbox" hidden>
@@ -112,89 +110,6 @@
     </figure>
   </div>
 
-  <div id="editor-root" class="editor-root" hidden>
-    <header class="editor-header">
-      <span class="editor-brand">✎ Editor del catálogo</span>
-      <div class="editor-actions">
-        <span id="editor-dirty" class="editor-dirty" hidden>· cambios sin guardar</span>
-        <button id="editor-save" class="editor-save-btn" type="button" disabled>Guardar cambios</button>
-        <button id="editor-exit" class="editor-exit-btn" type="button">Salir</button>
-      </div>
-    </header>
-
-    <div id="editor-login" class="editor-login" hidden>
-      <form id="login-form" class="editor-card">
-        <h2>Acceso de edición</h2>
-        <p>Ingresá la contraseña de edición para modificar el catálogo.</p>
-        <input id="login-pass" type="password" autocomplete="current-password" placeholder="••••••••">
-        <p id="login-error" class="editor-error" hidden></p>
-        <button class="editor-btn editor-btn-primary" type="submit">Entrar</button>
-        <button id="login-cancel" class="editor-btn" type="button">Cancelar</button>
-      </form>
-    </div>
-
-    <div id="editor-list" class="editor-main" hidden>
-      <div id="editor-draft-banner" class="editor-banner" hidden>
-        <p id="editor-banner-text">Hay un borrador sin guardar de una sesión anterior.</p>
-        <div>
-          <button id="draft-restore" class="editor-btn editor-btn-primary" type="button">Restaurar borrador</button>
-          <button id="draft-discard" class="editor-btn" type="button">Descartar</button>
-        </div>
-      </div>
-      <div class="editor-toolbar">
-        <input id="editor-search" type="search" placeholder="Buscar obra…" aria-label="Buscar obra">
-        <button id="editor-add" class="editor-add-btn" type="button">+ Agregar obra</button>
-      </div>
-      <div id="editor-rows" class="editor-rows"></div>
-      <p id="editor-empty" class="editor-empty" hidden>No hay obras que coincidan con la búsqueda.</p>
-    </div>
-
-    <div id="editor-form" class="editor-form-box" hidden>
-      <button id="editor-back" class="editor-back-btn" type="button">← Volver a la lista</button>
-      <h2 id="form-heading" class="editor-card-title">Editar obra</h2>
-      <label class="editor-field">
-        <span>Título</span>
-        <input id="f-titulo" type="text" maxlength="200">
-      </label>
-      <label class="editor-field">
-        <span>Autor (vacío = sin autor)</span>
-        <input id="f-autor" type="text" maxlength="120">
-      </label>
-      <label class="editor-field">
-        <span>Imagen (lámina de la partitura)</span>
-        <div class="f-media">
-          <img id="f-img-preview" class="f-img-preview" alt="">
-          <div class="f-media-fields">
-            <input id="f-imagen" type="text" placeholder="imagenes/nombre-de-la-obra.jpg">
-            <label class="upload-btn">Subir imagen…<input id="f-img-file" type="file" accept="image/jpeg,image/png" hidden></label>
-            <p id="f-img-warn" class="editor-warn" hidden></p>
-          </div>
-        </div>
-      </label>
-      <label class="editor-field">
-        <span>Audio (vacío = sin audio)</span>
-        <input id="f-audio" type="text" placeholder="audios/nombre-de-la-obra.mp3">
-        <label class="upload-btn">Subir audio…<input id="f-audio-file" type="file" accept="audio/mpeg" hidden></label>
-        <audio id="f-audio-preview" class="f-audio-preview" controls preload="none" hidden></audio>
-      </label>
-      <label class="editor-field">
-        <span>Ficha (descripción de la obra)</span>
-        <textarea id="f-desc" rows="7" maxlength="8000"></textarea>
-      </label>
-      <div class="editor-field">
-        <span>Categorías</span>
-        <div id="f-cats" class="editor-cats"></div>
-      </div>
-      <div class="form-actions">
-        <button id="form-delete" class="editor-btn editor-btn-danger" type="button">Eliminar obra…</button>
-        <button id="form-apply" class="editor-btn editor-btn-primary" type="button">Hecho ✓</button>
-      </div>
-    </div>
-  </div>
-
-  <div id="editor-toast" class="editor-toast" hidden></div>
-
   <script src="/js/main.js"></script>
-  <script src="/js/editor.js"></script>
 </body>
 </html>
