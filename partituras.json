@@ -366,9 +366,9 @@
     "imagen": "imagenes/homero.jpg",
     "audio": "audios/homero.mp3",
     "categorias": [
-      "Sin clasificar"
+      "Caballos"
     ],
-    "descripcion": "Homero es un tango de Roberto Firpo. Roberto Firpo la incluyó en su catálogo; Conserva grabaciones instrumentales entre 1915 y 1920; Es una de las piezas menores dentro de su abundantísima producción.  No hay dedicatoria documentada ni un destinatario identificado para el título."
+    "descripcion": "Homero es un tango de Roberto Firpo. Roberto Firpo la incluyó en su catálogo; Conserva grabaciones instrumentales entre 1915 y 1920; Es una de las piezas menores dentro de su abundantísima producción. La segunda copia del archivo, con la misma placa 5082 de Breyer Hnos., revela que la obra está dedicada al distinguido sportman don Juan José Rodríguez Silva, y su portada ilustra tres jockeys en plena carrera de caballos."
   },
   {
     "titulo": "¡Tatán Solo!",
@@ -540,7 +540,7 @@
       "Caballos",
       "Jockeys y personajes"
     ],
-    "descripcion": "Melgarejo aparece en el archivo sin autor identificado. «Melgarejo» puede ser un apellido propio o un nombre de caballo; No se ha localizado un tango documentado con este título en los catálogos consultados. El catálogo atribuye la obra a N. Mónaco."
+    "descripcion": "Melgarejo es un tango atribuido a N. Mónaco; no se ha localizado un tango documentado con este título en los catálogos consultados. La segunda copia del archivo, editada por Luis Filardi, está dedicada al muy distinguido sportman don Rodolfo Newbery con firma manuscrita, lo que permite inclinarse por la lectura equina del título."
   },
   {
     "titulo": "Araca!",
@@ -1234,5 +1234,266 @@
     "categorias": [
       "Caballos"
     ]
+  },
+  {
+    "titulo": "Guanaco",
+    "autor": "Carlos Posadas",
+    "imagen": "imagenes/guanaco.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Guanaco» es un tango de Carlos Posadas, editado por Juan S. Balerio y dedicado a don Honorio Valdez. La portada ilustra un jinete saltando una valla ante las tribunas de un hipódromo, aludiendo al nombre del caballo. Del mismo autor el archivo conserva «Timido», la única obra que Valdez registró en SADAIC —luego difundida como «El Tímido»— y que Posadas compuso en homenaje a su jinete predilecto."
+  },
+  {
+    "titulo": "Homero",
+    "autor": "Roberto Firpo",
+    "imagen": "imagenes/homero-b.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos"
+    ],
+    "descripcion": "Segunda copia de la edición de Breyer Hnos. del «Homero» de Roberto Firpo, con la misma placa 5082 y la dedicatoria al distinguido sportman don Juan José Rodríguez Silva. La portada de esta impresión, en tonos verdes, ilustra tres jockeys en plena carrera de caballos. La grabación disponible está asociada a la otra copia del archivo."
+  },
+  {
+    "titulo": "Horacio II",
+    "autor": "Carlos A. Oliva",
+    "imagen": "imagenes/horacio-ii.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Horacio II» es un tango de Carlos A. Oliva editado por la Casa Moyart (Liodrá Fortich & Cía), con timbre de registro de Serrano del 5 de abril de 1915. Está dedicado al joven Leonardo Fische y la portada muestra al caballo dentro de una herradura. El apodo del título remite probablemente a un caballo de carreras."
+  },
+  {
+    "titulo": "Indiecita",
+    "autor": "Roberto Firpo",
+    "imagen": "imagenes/indiecita-a.jpg",
+    "audio": "audios/indiecita.mp3",
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Indiecita» es un tango de Roberto Firpo editado por Domingo La Salvia y dedicado al Dr. Luis C. Saavedra. La portada anuncia que el autor «ha registrado en el disco Odeón solo de piano y con la orquesta de bandoneón» la obra. Es una de las piezas más grabadas de Firpo en la década de 1910: registró al piano solo en discos Odeón en 1914 (matriz 86099, disco 501-A) y una versión orquestal en 1916 (matriz 86119); también existe una grabación del sello ERA de 1914 (disco 62396) resultante de las particularidades de su contrato con Odeón. El audio disponible corresponde a una de sus grabaciones de la época, rescatada del disco de 78 rpm."
+  },
+  {
+    "titulo": "Indiecita",
+    "autor": "Roberto Firpo",
+    "imagen": "imagenes/indiecita-b.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "Segunda copia de la edición de «Indiecita» de Roberto Firpo, con la misma dedicatoria al Dr. Luis C. Saavedra y el mismo editor Domingo La Salvia. La grabación disponible está asociada a la otra copia del archivo."
+  },
+  {
+    "titulo": "Inspector",
+    "autor": "Valentín Jaimovich",
+    "imagen": "imagenes/inspector.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Inspector» es un tango de Valentín Jaimovich editado por Bonard y dedicado a don Juan Murás, propietario del caballo Inspector, ganador de la Gran Polla de Potrillos de 1912. La portada conserva además una nota manuscrita: «Ver nota adentro». La victoria del caballo en la Polla de 1912 está confirmada por los registros del Stud Book Argentino."
+  },
+  {
+    "titulo": "Irigoyen en punta",
+    "autor": "G. J. Citanna",
+    "imagen": "imagenes/irigoyen-en-punta.jpg",
+    "audio": null,
+    "categorias": [
+      "Carreras y apuestas"
+    ],
+    "descripcion": "«Irigoyen en punta» es un tango de comité para piano de G. J. Citanna, editado por Julio Martel (Garay 2370) y dedicado «por José Lobarinas» al Dr. Hipólito Irigoyen y a los correligionarios de la Unión Cívica Radical. La portada, de tinte político, usa la metáfora turfística del título: bajo una caricatura de victoria se ilustra una carrera de caballos y un premio de 80.000 pesos. El sello de registro conserva el número 00103."
+  },
+  {
+    "titulo": "Jubillo",
+    "autor": "José Guerriero",
+    "imagen": "imagenes/jubillo.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Jubillo» es un tango de José Guerriero dedicado al distinguido caballero Alberto Larrandart. La portada reproduce, dentro de un óvalo, el retrato del caballo con su jinete, lo que confirma la lectura equina del título. No hay grabaciones documentadas del título en las fuentes consultadas."
+  },
+  {
+    "titulo": "Juncal",
+    "autor": "Juan Borghese",
+    "imagen": "imagenes/juncal.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Juncal» es un tango de Juan Borghese dedicado a don Celestino Delucchi, dueño del caballo «Juncal». La dedicatoria a Delucchi, dueño del caballo, confirma que el título homenajea al caballo. La portada anuncia además una colección futura de ocho tangos, un pericón y dos vals del mismo autor."
+  },
+  {
+    "titulo": "La Argentinita",
+    "autor": "Genaro Neron Domínguez",
+    "imagen": "imagenes/la-argentinita.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«La Argentinita» es un tango original turfista de Genaro Neron Domínguez, editado en Montevideo por Juan L. Cavallero y dedicado al sportman A. Barreiro y Ortega. La portada conserva el sello de depósito de la Casa Quaranta de Montevideo, lo que la sitúa hacia 1922, y refleja la circulación del tango turfístico entre Buenos Aires y Uruguay."
+  },
+  {
+    "titulo": "La Pingüina",
+    "autor": "José J. Ibarra",
+    "imagen": "imagenes/la-pinguina.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Carreras y apuestas"
+    ],
+    "descripcion": "«La Pingüina» es un tango de José J. Ibarra dedicado a don Belisario Olivera. La portada reproduce la fotografía de la llegada del Premio «Packoy» de 1917 sobre 1600 metros, con el resultado: 1.º La Pingüina, 2.º Mirabeau II, 3.º Florilegio, 4.º The Lad; tiempo 1'38\". El título homenajea al caballo ganador de esa carrera."
+  },
+  {
+    "titulo": "Lacio",
+    "autor": "Manuel Moreno",
+    "imagen": "imagenes/lacio.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Lacio» es un tango con letra y música de Manuel Moreno, editado por la editorial Fidelio (A. S. Arista). La portada dedica la obra al Dr. Horacio P. Saavedra, propietario y criador del gran crack Lacio, ganador del Gran Premio Nacional de 1929, disputado el 13 de octubre de ese año según los registros de la época. La portada ilustra un jinete montado."
+  },
+  {
+    "titulo": "Lepanto",
+    "autor": "José Martínez",
+    "imagen": "imagenes/lepanto.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Lepanto» es un tango de José Martínez dedicado al distinguido entrenador de caballos Segundo Rodríguez. La portada, editada por M. A. Trebino como editor único autorizado, ilustra una herradura con la silla de montar y la fusta dentro."
+  },
+  {
+    "titulo": "Lomauquén",
+    "autor": "Luis Teisseire",
+    "imagen": "imagenes/lomauquen.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Lomauquén» es un tango de Luis Teisseire, bandoneonista de la guardia vieja, dedicado a don Juan B. Saffouret, criador del caballo Lomauquén. La portada reproduce la fotografía de la llegada de la carrera, con 1.º Lomauquén y 2.º Bruce Lowe, y la editaron los J. A. Lemos & Cía como editores autorizados."
+  },
+  {
+    "titulo": "Lombardo Diez",
+    "autor": "Alfonso Diez Jones",
+    "imagen": "imagenes/lombardo-diez.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Lombardo Diez» es un tango de Alfonso Diez Jones dedicado a don Pedro Gandulfo de la Serna como recuerdo de sus grandes triunfos. La editó la Casa Medina (Tucumán y Esmeralda) y la portada reproduce la fotografía del jockey montado. No debe confundirse con el «Lombardo» de Antonio Buglione ya presente en el archivo, pese a compartir título."
+  },
+  {
+    "titulo": "Lunático",
+    "autor": "Guillermo D. Barbieri y Eugenio Cárdenas",
+    "imagen": "imagenes/lunatico.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos"
+    ],
+    "descripcion": "«Lunático» es un tango para piano y canto de Guillermo D. Barbieri y Eugenio Cárdenas, dedicado «con admiración a mi buen compañero Carlos Gardel». Lunático era el caballo preferido de la caballeriza de Gardel, y la dupla comparte autoría con el de «Barrio viejo», «Besos que matan», «Guaminí» y «Tierra hermana». La portada anuncia que la obra fue «grabada en disco Nacional por el dúo Gardel-Razzano», pero la investigación especializada señala que no consta tal grabación y que, si existió, probablemente se encuentre perdida o no editada. La edición lleva el sello de la editorial Alfredo Perrotti."
+  },
+  {
+    "titulo": "Macon",
+    "autor": "Esteban Bonamino y Domingo Giorgio",
+    "imagen": "imagenes/macon.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos"
+    ],
+    "descripcion": "«Macon» es un gran tango milonga con música de Esteban Bonamino y letra de Domingo Giorgio, editado por E. Peire (Alvarez 444). La portada reproduce a un jinete a caballo dentro de un octágono y conserva la firma manuscrita del autor."
+  },
+  {
+    "titulo": "Mamita II",
+    "autor": "Pablo Laise",
+    "imagen": "imagenes/mamita-ii.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Mamita II» es el tercer tango milonga para piano de Pablo Laise, dedicado al sportman Justo C. Saavedra y al compositor Honorio Valdés —el mismo homenajeado del «Guanaco» de Posadas presente en el archivo. La lista de la portada confirma las otras obras de Laise ya registradas en la ficha de «Viejo Pillo»: «Stud Los Cardos» y «Mamita segunda»."
+  },
+  {
+    "titulo": "Mangazul",
+    "autor": "Damian E. Sosa",
+    "imagen": "imagenes/mangazul.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Studs e instituciones"
+    ],
+    "descripcion": "«Mangazul» es un tango de Damian E. Sosa dedicado al Stud Argentino de los señores P. Teófilo y Félix Z. Mathet. La portada reproduce el retrato del compositor y la imagen de un caballo troteando."
+  },
+  {
+    "titulo": "Marquito",
+    "autor": "Carlitos Warren",
+    "imagen": "imagenes/marquito.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Marquito» es un gran tango de salón de Carlitos Warren dedicado al viejo amigo y coterráneo Raúl F. Barbat. La portada reproduce la fotografía de un hombre junto a la cabeza del caballo y la editó para el Uruguay Oscar S. Cerfoglio (Cordón) como editor autorizado."
+  },
+  {
+    "titulo": "Mascotón",
+    "autor": "José Bonanno",
+    "imagen": "imagenes/mascoton.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Mascotón» es un tango para piano de José Bonanno dedicado al sportman Humberto Mauro. La portada ilustra al caballo galopando en plena carrera."
+  },
+  {
+    "titulo": "Mataco",
+    "autor": "Abel A. Millán",
+    "imagen": "imagenes/mataco.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Mataco» es un tango para piano de Abel A. Millán dedicado a los doctores Juan Carlos y Hernán Basaldúa. La portada reproduce la imagen del caballo y su jinete dentro de una herradura."
+  },
+  {
+    "titulo": "Medicis",
+    "autor": "Alfredo Seghini",
+    "imagen": "imagenes/medicis.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes",
+      "Studs e instituciones"
+    ],
+    "descripcion": "«Medicis (El Magnífico)» es un tango de Alfredo Seghini dedicado al propietario del Stud El Bosque, Pedro Marcattini, y al compositor Alberto Irusta, con motivo de los sonados triunfos del Crack de 1936. Medicis está registrado en el Stud Book Argentino (1933-1964, por Congreve). Curiosamente, Seghini ya figuraba en el catálogo por la atribución del «Sin Castigar», hoy considerada errónea por las fuentes."
+  },
+  {
+    "titulo": "Melgarejo",
+    "autor": "N. Mónaco",
+    "imagen": "imagenes/melgarejo-mon.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "Segunda copia de la edición de «Melgarejo» de N. Mónaco, en este caso editada por Luis Filardi y dedicada al muy distinguido sportman don Rodolfo Newbery, con firma manuscrita. La dedicatoria a un sportman permite inclinarse por la lectura equina del título, que la ficha de la otra copia ya contempla."
   }
 ]
