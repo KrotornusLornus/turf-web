@@ -673,11 +673,6 @@ a {
   font-variant-numeric: oldstyle-nums;
 }
 
-.player-orn {
-  color: var(--dorado);
-  opacity: 0.9;
-}
-
 .player-vol {
   flex-shrink: 0;
   width: 36px;

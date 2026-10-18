@@ -261,17 +261,11 @@ function buildPlayer(src) {
   cur.className = 'player-time-current';
   cur.textContent = '0:00';
 
-  const orn = document.createElement('span');
-  orn.className = 'player-orn';
-  orn.setAttribute('aria-hidden', 'true');
-  orn.textContent = '♪';
-
   const dur = document.createElement('span');
   dur.className = 'player-time-total';
   dur.textContent = '—:—';
 
   times.appendChild(cur);
-  times.appendChild(orn);
   times.appendChild(dur);
 
   body.appendChild(bar);
