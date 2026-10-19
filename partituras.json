@@ -1495,5 +1495,365 @@
       "Jockeys y personajes"
     ],
     "descripcion": "Segunda copia de la edición de «Melgarejo» de N. Mónaco, en este caso editada por Luis Filardi y dedicada al muy distinguido sportman don Rodolfo Newbery, con firma manuscrita. La dedicatoria a un sportman permite inclinarse por la lectura equina del título, que la ficha de la otra copia ya contempla."
+  },
+  {
+    "titulo": "Meneguina",
+    "autor": "Osvaldo Fresedo",
+    "imagen": "imagenes/meneguina.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Meneguina» es un tango para piano de Osvaldo Fresedo, dedicado a mi querido amigo Pascual Toscano, editado por Breyer Hnos. La portada ilustra un jinete en carrera ante las tribunas y anuncia, del mismo autor, «El Espiante» y «El Metejón», en breve. Es de las piezas tempranas del Fresedo que se nutrían del vocabulario hípico; el título parece el nombre del caballo del dedicatario."
+  },
+  {
+    "titulo": "Milonga para Yatasto",
+    "autor": "Rodolfo Lesica y Luis Ángel Formento",
+    "imagen": "imagenes/milonga-para-yatasto.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "Milonga con música de Rodolfo Lesica —el cantor de la orquesta de Armando Pontier cuya fotografía ilustra la portada— y letra de Luis Ángel Formento, editada por Korn S.A.I.C. Está dedicada al periodista Miguel Capuano y al turfman Carlos Alberto Insúa. El título evoca al legendario Yatasto, el mismo caballo que ya inspira el tango «A Yatasto» de 1954 presente en el archivo."
+  },
+  {
+    "titulo": "Mineral",
+    "autor": "Pedro M. Maffia",
+    "imagen": "imagenes/mineral.jpg",
+    "audio": "audios/mineral.mp3",
+    "categorias": [
+      "Caballos",
+      "Carreras y apuestas"
+    ],
+    "descripcion": "«Mineral» es un gran tango milonga de Pedro M. Maffia, con letra del propio compositor, dedicado al Sr. José M. Rocca como recuerdo. La portada invita a pedir la obra en discos Columbia por la orquesta Maffia, y efectivamente la grabación fue registrada el 13 de noviembre de 1931 para Columbia (disco 6032-B) con la voz de Rafael Cisca. El audio disponible corresponde a esa grabación. La letra, turfística, celebra al caballo Mineral, «crack del Alerta»: «Mineral... viejo y peludo, metéle cabeza arriba»."
+  },
+  {
+    "titulo": "Moloch",
+    "autor": "Victorio Pierre",
+    "imagen": "imagenes/moloch.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes",
+      "Studs e instituciones"
+    ],
+    "descripcion": "«Moloch» es un tango para piano de Victorio Pierre dedicado al Señor Ignacio Correas, propietario y criador del caballo Moloch, «salvador del Honor Nacional», y al entrenador P. Zanzottera y al jockey F. Arcuri —el mismo homenajeado del «Art Nouveau» de Fausto Frontera presente en el archivo. La portada ilustra la escena de la pista dentro de una herradura."
+  },
+  {
+    "titulo": "Palomita",
+    "autor": "Diego Cordero y Pedro Fidel Coeur",
+    "imagen": "imagenes/palomita.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Palomita» es un tango con letra de Pedro Fidel Coeur y música de Diego Cordero, dedicado al Sr. Eliseo B. Cacace. La portada reproduce la fotografía del jockey montado y un tablero con el año 1936, que la inscribe en los homenajes equinos de mediados de los años treinta."
+  },
+  {
+    "titulo": "Palospavos",
+    "autor": "Miguel La Salvia",
+    "imagen": "imagenes/palos-pavos.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "Tercera copia del «Palospavos» de Miguel La Salvia presente en el archivo, con la misma dedicatoria al crak de los entrenadores Juan Torterolo. Esta impresión, editada por M. A. Trebino entre 1943 y 1947 desde Belgrano, es una reedición tardía de la partitura original, con la cabeza del caballo enmarcada en un círculo negro sobre franjas rojas y azules."
+  },
+  {
+    "titulo": "Pam, Pam.",
+    "autor": "Geronimo Bellotto",
+    "imagen": "imagenes/pam-pam.jpg",
+    "audio": null,
+    "categorias": [
+      "Carreras y apuestas"
+    ],
+    "descripcion": "«Pam, Pam.» es un tango para piano de Geronimo Bellotto, editado por José Felipetti y dedicado a mi amigo Fausto Dubely, con anotación manuscrita «Año 1925». La portada es una sátira hípica: un jinete montado sobre un burro galopando ante las tribunas. Del mismo autor la portada anuncia el vals «(Recuerdos de Amor)»."
+  },
+  {
+    "titulo": "Panoli",
+    "autor": "José Laina (Bachicha)",
+    "imagen": "imagenes/panoli.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Panoli» es un gran tango para piano de José Laina, «Bachicha», dedicado al comisario Alfredo Bouchez y editado por R. S. Lamy. La portada art déco enmarca la cabeza del caballo en un círculo central, lo que inscribe el título en el repertorio equino."
+  },
+  {
+    "titulo": "Payaso en punta",
+    "autor": "Italo Goyeche y Atilano Ortega Sanz",
+    "imagen": "imagenes/payaso-en-punta.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Payaso en punta» es un tango canción con música de Italo Goyeche y letra de Atilano Ortega Sanz, editado por Yadarola. Está dedicado con el mayor aprecio a mis buenos amigos Francisco Maschio e Irineo Leguisamo, la dupla del gran caballo Payaso, cuya fotografía en el paddock ilustra la portada. Comparte caballo homenajeado con «¡Payaso, Solo!», también presente en el archivo."
+  },
+  {
+    "titulo": "¡Payaso, Solo!",
+    "autor": "Anibal Abel Maschio y José Horacio Staffolani",
+    "imagen": "imagenes/payaso-solo.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«¡Payaso, Solo!» es un tango turfístico con versos de José Horacio Staffolani y música de Anibal Abel Maschio, dedicado a los señores Francisco Maschio e Irineo Leguisamo. La portada reproduce la fotografía de «Payaso, el crack del año», montado con su chaquetilla rosa. Curiosamente, Staffolani es también el coautor de la letra de «Mineral», de Pedro Maffia, presente en el archivo."
+  },
+  {
+    "titulo": "Pedanton",
+    "autor": "Alfonso Julio Diez Jones",
+    "imagen": "imagenes/pedanton.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Pedanton» es un tango de Alfonso Julio Diez Jones —el mismo autor del «Lombardo Diez» presente en el archivo—, dedicado al distinguido sportsman don Santiago Canale. La portada, impresa por G. Ricordi e C., dibuja en rojo la silueta del jinete a todo galope sobre el caballo."
+  },
+  {
+    "titulo": "Penny Post",
+    "autor": "Oscar Arona y Enrique P. Maroni",
+    "imagen": "imagenes/penny-post.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos"
+    ],
+    "descripcion": "«Penny Post» es un tango con música de Oscar Arona y letra de Enrique P. Maroni, que homenajea al caballo Penny Post montado con su número 3, según la fotografía de la portada. Es una obra distinta del «Crack Penny Post» de Benito R. Atella ya presente en el archivo, sobre el mismo ejemplar."
+  },
+  {
+    "titulo": "Peregrino",
+    "autor": "Pablo Laise",
+    "imagen": "imagenes/peregrino.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Peregrino» es un tango-milonga para piano de Pablo Laise, dedicado al distinguido Señor Eladio Vidal, propietario del caballo «Peregrino». La portada enmarca al caballo ensillado con su número 3 dentro de una herradura, junto a la silla con la fusta. La ficha de «Viejo Pillo» del propio archivo ya registraba «Peregrino» entre las obras de Laise."
+  },
+  {
+    "titulo": "Petite Chose",
+    "autor": "David Roccatagliata",
+    "imagen": "imagenes/petite-chose.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Petite Chose» es un tango para piano de David Roccatagliata, editado bajo el Nº 464 de la Sociedad Argentina de Compositores y dedicado al distinguido sportman Señor Agustín D. Agustino. La portada art déco, en naranja sobre negro, dibuja al jinete con chaquetilla a rayas montado sobre el alazán."
+  },
+  {
+    "titulo": "Pingo de Oro",
+    "autor": "Luis Aira y Enrique Cotone",
+    "imagen": "imagenes/pingo-de-oro.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos"
+    ],
+    "descripcion": "«Pingo de Oro» es un tango con música de Luis Aira y letra de Enrique Cotone, impreso el 10 de mayo de 1948 por la Editorial A. Boccazzi. La portada reproduce la fotografía de Francisco Canaro, «rey del tango». «Pingo» es el lunfardo clásico para el caballo de carreras, aunque la relación exacta del título con el dedicatario no ha podido precisarse."
+  },
+  {
+    "titulo": "Pollera",
+    "autor": "A. Rosendo",
+    "imagen": "imagenes/polilla.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Pollera» es un tango para piano firmado por «A. Rosendo», la forma en que Anselmo Rosendo Mendizábal —el autor de «Reina de Saba» y de «El entrerriano», presente en el archivo— firmaba sus obras. Está dedicado a la señora Susana Cambaceres de Luro y al señor Alfredo Cambaceres, dedicatoria que coincide con la registrada por los estudios del género. El título figura como «Polilla» en el nombre del archivo de procedencia, pero la portada impresa lo grafica «Pollera»."
+  },
+  {
+    "titulo": "Polo de Oro",
+    "autor": "Enea Verardini",
+    "imagen": "imagenes/polo-de-oro.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Polo de Oro» es un tango para piano de Enea Verardini, editado por la Casa Moia de Corrientes y dedicado al leader del sportman correntino, mi buen amigo Señor J. Rodolfo De Llano. La portada art nouveau, en verdes, enmarca la fotografía del jinete montado sobre su caballo."
+  },
+  {
+    "titulo": "Polvorín",
+    "autor": "M. Romero y J. Martínez",
+    "imagen": "imagenes/polvorin-bis.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Carreras y apuestas"
+    ],
+    "descripcion": "«Polvorín» es un tango para piano y canto con letra de M. Romero y música de J. Martínez, dedicado a los Sres. Manuel Romero y Vittone-Pomar. La portada, editada por M. A. Trebino, combina la fotografía del caballo de pie con las de su jockey y del cantor, y anuncia que la obra fue «cantada con éxito en el Teatro Politeama por el actor Muñiz en la obra 'El Gran Premio Nacional'». El nombre del archivo de procedencia añade un «bis» que no forma parte del título."
+  },
+  {
+    "titulo": "Rico",
+    "autor": "Vicente Greco",
+    "imagen": "imagenes/rico.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Rico» es un tango milonga para piano de Vicente Greco, dedicado por el autor al Sr. Fernando Sanjurjo. La portada, de trazo art déco, dibuja la cabeza del caballo junto a la valla de la pista y anuncia que la obra fue «el último gran suceso en el teatro Ba-ta-clan de París y en el Ba-ta-clan de la capital». La editaron los Gornatti Hnos. como únicos editores autorizados."
+  },
+  {
+    "titulo": "Roncador",
+    "autor": "Esteban Lombardo",
+    "imagen": "imagenes/roncador.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos"
+    ],
+    "descripcion": "«Roncador» es un tango con letra y música de Esteban Lombardo, editado por Julio Korn y dedicado al Señor Ángel M. Macaagno, sinceramente. La portada reproduce la fotografía del caballo de cuerpo entero, con la firma manuscrita del autor."
+  },
+  {
+    "titulo": "Rondador",
+    "autor": "Ezio Compagnucci y Pablo Laise",
+    "imagen": "imagenes/rondador.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Rondador» es una milonga de Ezio Compagnucci y Pablo Laise, impresa el 17 de julio de 1953 por la Editorial A. Boccazzi. Está dedicada a los sportmen señores Emilio y Jorge Sagasti y al entrenador Ángel A. Penna «con el mayor respeto, P. Laise», firma que se suma a las tres obras de Laise ya presentes en el archivo."
+  },
+  {
+    "titulo": "Sablazo",
+    "autor": "Domingo Bramano",
+    "imagen": "imagenes/sablazo.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Sablazo» es un tango para piano de Domingo Bramano dedicado afectuosamente a los felices propietarios del Stud 'La Brisa' y al jockey Raimundo Rivero —el mismo jockey que homenajea el «Woodman», también presente en el archivo. La portada dibuja la cabeza de un caballo de pelaje manchado, firmada por Yanze."
+  },
+  {
+    "titulo": "Sarraceno",
+    "autor": "Mateo Coppola y Delmira A. Zinola",
+    "imagen": "imagenes/sarraceno.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes",
+      "Studs e instituciones"
+    ],
+    "descripcion": "«Sarraceno» es un tango con música de Mateo Coppola —el mismo autor del «Aral» presente en el archivo— y letra de Delmira A. Zinola. La portada reproduce la fotografía de Francisco Milia, «el competente trainer del stud La Mascota», y la dedicatoria se dirige a él y a los propietarios de Sarracenos Azus, P. y S. Pérez. Fue editada por Juan Feliu e Hijos en Buenos Aires y depositada por M. C. Galatayud en Montevideo."
+  },
+  {
+    "titulo": "Silfo",
+    "autor": "Eugenio Castelucci y Eduardo Moreno",
+    "imagen": "imagenes/silfo.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Silfo (Crack 1934)» es un tango con letra de Eduardo Moreno y música de Eugenio Castelucci, editado por Julio Korn. Está dedicado afectuosamente a los Sres. J. Echegaray, C. Mendieta, J. Aguilera y a su jockey F. Rocco, y la portada combina la fotografía del caballo montado con el retrato de J. Aguilera."
+  },
+  {
+    "titulo": "Tana Linda",
+    "autor": "Rafael Canaro",
+    "imagen": "imagenes/tana-linda.jpg",
+    "audio": "audios/tana-linda.mp3",
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Tana Linda» es un tango de Rafael Canaro, dedicado al excelentísimo piloto Rubén B. Quinteros, cuya fotografía con su caballo ilustra la portada, editada por Ediciones Musicales Roma. La portada anuncia que la obra fue «grabada en Discos Odeón por 'Pirincho' y su Quinteto Típico»: el apodo «Pirincho» correspondía a Francisco Canaro, hermano del autor, y el Quinteto Pirincho registró la obra el 21 de noviembre de 1956. El audio disponible corresponde a esa grabación."
+  },
+  {
+    "titulo": "Telescópico",
+    "autor": "C. García Dávila y José R. Valotta",
+    "imagen": "imagenes/telescopico.jpg",
+    "audio": null,
+    "categorias": [
+      "Sin clasificar"
+    ],
+    "descripcion": "«Telescópico» es un tango de C. García Dávila y José R. Valotta, editado en primera edición por la M.A.I. Editorial. La portada anuncia que fue «grabado en Discos BE por Víctor D'Amario y su Orquesta Típica» y reproduce la fotografía de Alfredo De Angelis. La grabación no se ha localizado en línea. No ha podido establecerse un vínculo hípico preciso del título, por lo que la obra se conserva sin clasificar en el archivo."
+  },
+  {
+    "titulo": "Tiepolo",
+    "autor": "Héctor R. Wilde",
+    "imagen": "imagenes/tiepolo.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Tiepolo» es un tango para piano de Héctor R. Wilde, editado por E. S. Castiglioni & Cía y dedicado al Señor Héctor Gandulfo de la Serna —el mismo apellido del dedicatario del «Lombardo Diez» de Alfonso Diez Jones presente en el archivo. La portada dibuja la silueta del caballo de perfil."
+  },
+  {
+    "titulo": "Tiny",
+    "autor": "Julio De Caro y Pedro Maffia",
+    "imagen": "imagenes/tiny.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Tiny» es un gran tango milonga de Julio De Caro y Pedro Maffia, editado por M. A. Trebino, dedicado al distinguido Señor Joaquín Gorina «con motivo de los triunfos obtenidos con su crak 'Tiny', vencedor de los grandes premios de la temporada 1919». La portada combina la fotografía del propietario junto al caballo ensillado con la de una partida en la pista, y conserva la anotación manuscrita «86.522 record». El mismo caballo inspira el «Tiny al Freno» de Gregorio B. Sá ya presente en el archivo."
+  },
+  {
+    "titulo": "¡Toscano Solo...!",
+    "autor": "Enrique Rando",
+    "imagen": "imagenes/toscano-solo.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Carreras y apuestas"
+    ],
+    "descripcion": "«¡Toscano Solo...!» es un tango turfístico con letra y música de Enrique Rando, anunciado entre los «grandes éxitos del Carnaval de 1931» y editado por Ediciones Musicales Julio Korn para la Colección Antonio D. Ponte. La portada reproduce la misma ilustración del caballo blanco saltando la valla que la de «Astuto». El título, en la fórmula de los favoritos que corren sin rivales, evoca a Pascual Toscano, el dedicatario del «Meneguina» de Fresedo presente en el archivo."
+  },
+  {
+    "titulo": "Tragacanto",
+    "autor": "Adolfo E. Fraga",
+    "imagen": "imagenes/tragacanto.jpg",
+    "audio": null,
+    "categorias": [
+      "Jockeys y personajes"
+    ],
+    "descripcion": "«Tragacanto» es un tango turfístico de Adolfo E. Fraga, editado por los Gornatti Hnos. —los mismos editores del «Rico» de Vicente Greco— y dedicado al distinguido Sportmann Dr. Don Jorge García González, con anotación manuscrita «1928». La portada reproduce el retrato del joven compositor. El título podría corresponder a un caballo, aunque no ha podido confirmarse."
+  },
+  {
+    "titulo": "Woodman",
+    "autor": "Plácido Simoni Alfaro, Juan Pedro Castillo y Martín Echeverría",
+    "imagen": "imagenes/woodman.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Jockeys y personajes",
+      "Studs e instituciones"
+    ],
+    "descripcion": "«Woodman» es un tango con música de Plácido Simoni Alfaro y Juan Pedro Castillo y letra de Martín Echeverría, dedicado al propietario de la Ecurie «Un-Coup», Señor Francisco L. Raffo, y al jockey Raimundo Rivero —el mismo homenajeado del «Sablazo» de Domingo Bramano presente en el archivo. La portada ilustra al caballo de perfil en un paisaje campestre."
+  },
+  {
+    "titulo": "¡Yatasto Up!",
+    "autor": "Benjamín Garcilazo",
+    "imagen": "imagenes/yatasto-up.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Carreras y apuestas"
+    ],
+    "descripcion": "«¡Yatasto Up!» es un tango mecanografiado con letra y música de Benjamín Garcilazo, que celebra al caballo Yatasto al grito de «up». La letra evoca a los cracks históricos del turf: «La gloria del gran Macon», «yo lo vi a Botafogo galopar a tu lado», «Con Mineral y Congreve», y cierra con «un Pellegrini inmortal». Comparte caballo homenajeado con el «A Yatasto» y el «Yatasto» mecanografiado presentes en el archivo."
+  },
+  {
+    "titulo": "Yatasto",
+    "autor": "Eulogio B. Ponce y Arnaldo Boccazzi",
+    "imagen": "imagenes/yo-soy-yatasto.jpg",
+    "audio": null,
+    "categorias": [
+      "Caballos",
+      "Carreras y apuestas"
+    ],
+    "descripcion": "«Yatasto» es una milonga mecanografiada con letra y música de Eulogio B. Ponce y Arnaldo Boccazzi —el mismo Boccazzi del «Pingo de Oro» y editor del «Rondador»—, cantada en primera persona por el propio caballo: «Yo soy Yatasto señores... vengo de nuevo a las pistas con mi nombre de campeón». La letra menciona al jockey J. Contreras y a Legui (Leguisamo), al cuidador Ojeda y al piloto Quinteros como «mi monta oficial», y al rival «Brandy». El nombre del archivo de procedencia («Yo soy Yatasto») toma la primera línea de la letra."
   }
 ]
